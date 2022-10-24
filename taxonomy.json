@@ -1,0 +1,5355 @@
+{
+    "Bird": {
+        "ESC50": ["chirping_birds"],
+        "TAU": ["bird singing"],
+        "FSD50K": ["Chirp_and_tweet", "Bird"],
+        "BBC": ["Birds"]
+    },
+
+    "Cat": {
+        "ESC50": ["cat"],
+        "FSD50K": ["Cat", "Meow", "Purr"],
+        "BBC": ["Cats"]
+    },
+
+    "Cricket": {
+        "ESC50": ["crickets"],
+        "FSD50K": ["Cricket"]
+    },
+
+    "Dog": {
+        "ESC50": ["dog"],
+        "TAU": ["dog_bark"],
+        "FSD50K": ["Dog", "Bark"],
+        "BBC": ["Dogs"]
+    },
+
+    "Door Open/Close": {
+        "FSD50K": ["Door"],
+        "BBC": ["Doors"]
+    },
+
+    "Door Creak": {
+        "ESC50": ["door_wood_creaks"],
+        "BBC": ["Doors: Creaks"]
+    },
+
+    "Door Knock": {
+        "ESC50": ["door_wood_knock"],
+        "FSD50K": ["Knock"],
+        "BBC": ["Doors: Knocking"]
+    },
+
+    "Home Compartments": {
+        "TUT": ["drawer", "cupboard"],
+        "FSD50K": ["Drawer_open_or_close", "Cupboard_open_or_close"],
+        "BBC": ["Compartments"]
+    },
+
+    "Domestic Water Running": {
+        "ESC50": ["pouring_water", "water_drops"],
+        "TUT": ["water tap running"],
+        "FSD50K": ["Sink_(filling_or_washing)", "Bathtub_(filling_or_washing)", "Fill_(with_liquid)", "Splash_and_splatter"],
+        "BBC": ["Water"]
+    },
+
+    "Kitchen Sounds": {
+        "TUT": ["cutlery", "dishes", "glass jingling"],
+        "FSD50K": ["Dishes_and_pots_and_pans", "Cutlery_and_silverware", "Frying_(food)"],
+        "BBC": ["Cooking"]
+    },
+
+    "Washing": {
+        "TUT": ["washing dishes"],
+        "BBC": ["Washing"]
+    },
+
+    "Large Water Body": {
+        "ESC50": ["sea_waves"],
+        "FSD50K": ["Waves_and_surf"],
+        "BBC": ["Sea"]
+    },
+
+    "Gong": {
+        "FSD50K": ["Gong"],
+        "BBC": ["Gongs"]
+    },
+
+    "Pitched Percussion": {
+        "FSD50K": ["Glockenspiel", "Marimba_and_xylophone"]
+    },
+
+    "Unpitched Percussion": {
+        "FSD50K": ["Mallet_percussion", "Cowbell", "Drum_kit", "Percussion", "Tambourine", "Snare_drum", "Bass_drum", "Drum"],
+        "BBC": ["Percussion"]
+    },
+
+    "Piano": {
+        "FSD50K": ["Piano", "Keyboard_(musical)"]
+    },
+
+    "Organ": {
+        "FSD50K": ["Organ"]
+    },
+
+    "Aerophone": {
+        "FSD50K": ["Brass_instrument", "Trumpet", "Wind_instrument_and_woodwind_instrument"],
+        "BBC": ["Bugles"]
+    },
+
+    "Plucked Chordophone": {
+        "FSD50K": ["Plucked_string_instrument", "Bass_guitar", "Acoustic_guitar", "Guitar", "Electric_guitar"]
+    },
+
+    "Bowed Chordophone": {
+        "FSD50K": ["Bowed_string_instrument"]
+    },
+
+    "Singing": {
+        "FSD50K": ["Male_singing", "Female_singing", "Singing"],
+        "BBC": ["Children: Singing"]
+    },
+
+    "Multi-Speaker Adult Speech": {
+        "TUT": ["people speaking"],
+        "FSD50K": ["Conversation", "Chatter", "Female_speech_and_woman_speaking", "Speech", "Male_speech_and_man_speaking"],
+        "BBC": ["Chatter"]
+    },
+
+    "Children Speech": {
+        "TUT": ["children shouting"],
+        "FSD50K": ["Child_speech_and_kid_speaking"],
+        "BBC": ["Children"]
+    },
+
+    "Babies": {
+        "ESC50": ["crying_baby"],
+        "BBC": ["Babies"]
+    },
+
+    "Cheering": {
+        "FSD50K": ["Cheering"],
+        "BBC": ["Cheers"]
+    },
+
+    "Screaming": {
+        "FSD50K": ["Shout", "Yell", "Screaming"],
+        "BBC": ["Screams"]
+    },
+
+    "Laughter": {
+        "ESC50": ["laughing"],
+        "FSD50K": ["Giggle", "Laughter"],
+        "BBC": ["Laughter"]
+    },
+
+    "Breathing": {
+        "ESC50": ["breathing"],
+        "FSD50K": ["Breathing"]
+    },
+
+    "Sneezing": {
+        "FSD50K": ["Sneeze"]
+    },
+
+    "Whispering": {
+        "FSD50K": ["Whispering"]
+    },
+
+    "Crying": {
+        "FSD50K": ["Crying_and_sobbing"]
+    },
+
+    "Footsteps": {
+        "ESC50": ["footsteps"],
+        "TUT": ["people walking"],
+        "FSD50K": ["Walk_and_footsteps"],
+        "BBC": ["Footsteps"]
+    },
+
+    "Clock Ticking": {
+        "ESC50": ["clock_tick"],
+        "FSD50K": ["Tick-tock", "Clock"],
+        "BBC": ["Clocks: Domestic"]
+    },
+
+    "Clock Bell": {
+        "BBC": ["Clocks: Bell"]
+    },
+
+    "Church Bell": {
+        "ESC50": ["church_bells"],
+        "FSD50K": ["Church_bell"]
+    },
+
+    "Emergency Alarm": {
+        "FSD50K": ["Alarm"],
+        "BBC": ["Alarms"]
+    },
+
+    "Emergency Siren": {
+        "ESC50": ["siren"],
+        "TAU": ["siren"],
+        "FSD50K": ["Siren"],
+        "BBC": ["Sirens"]
+    },
+
+    "Keyboard Typing": {
+        "ESC50": ["keyboard_typing"],
+        "FSD50K": ["Typewriter", "Typing", "Computer_keyboard"],
+        "BBC": ["Typewriters"]
+    },
+
+    "Applause": {
+        "ESC50": ["clapping"],
+        "FSD50K": ["Applause", "Clapping"],
+        "BBC": ["Applause"]
+    },
+
+    "Hammer": {
+        "TAU": ["jackhammers"],
+        "FSD50K": ["Hammer"],
+        "BBC": ["Hammers"]
+    },
+
+    "Drill": {
+        "TAU": ["drilling"],
+        "BBC": ["Drills"]
+    },
+
+    "Wind": {
+        "ESC50": ["wind"],
+        "TUT": ["wind blowing"],
+        "FSD50K": ["Wind"],
+        "BBC": ["Wind"]
+    },
+
+    "Thunderstorm": {
+        "ESC50": ["thunderstorm"],
+        "FSD50K": ["Thunderstorm", "Thunder"],
+        "BBC": ["Thunder"]
+    },
+
+    "Saw": {
+        "ESC50": ["hand_saw"],
+        "FSD50K": ["Sawing"],
+        "BBC": ["Saws"]
+    },
+
+    "Engine": {
+        "ESC50": ["engine"],
+        "TAU": ["engine_idling"],
+        "FSD50K": ["Engine_starting", "Engine"],
+        "BBC": ["Engines"]
+    },
+
+    "Telephone": {
+        "FSD50K": ["Ringtone", "Telephone"],
+        "BBC": ["Telephones"]
+    },
+
+    "Electric Fan": {
+        "FSD50K": ["Mechanical_fan"]
+    },
+
+    "Kitchen Oven": {
+        "FSD50K": ["Microwave_oven"]
+    },
+
+    "Aircraft": {
+        "ESC50": ["airplane", "helicopter"],
+        "FSD50K": ["Fixed-wing_aircraft_and_airplane", "Aircraft"],
+        "BBC": ["Aircraft"]
+    },
+
+    "Train": {
+        "ESC50": ["train"],
+        "FSD50K": ["Train"],
+        "BBC": ["Trains"]
+    },
+
+    "Car Horn": {
+        "ESC50": ["car_horn"],
+        "TAU": ["car_horn"],
+        "BBC": ["Car Horns"]
+    },
+
+    "Car Passing": {
+        "TUT": ["car passing by"],
+        "FSD50K": ["Car_passing_by"],
+        "BBC": ["Car Passing"]
+    },
+
+    "Car Interior": {
+        "BBC": ["Car Interior"]
+    },
+
+    "Gunshot": {
+        "TAU": ["gunshot"],
+        "FSD50K": ["Gunshot_and_gunfire"],
+        "BBC": ["Guns"]
+    },
+
+    "Fireworks": {
+        "ESC50": ["fireworks"],
+        "FSD50K": ["Fireworks"],
+        "BBC": ["Fireworks"]
+    },
+
+    "Glass Breaking": {
+        "ESC50": ["glass_breaking"],
+        "BBC": ["Glass Crashes"]
+    },
+
+    "Keys": {
+        "FSD50K": ["Keys_jangling"]
+    },
+
+    "Coins": {
+        "FSD50K": ["Coin_(dropping)"]
+    },
+
+    "Cloth Zipper": {
+        "FSD50K": ["Zipper_(clothing)"]
+    },
+
+    "Speaker p304": {
+        "VCTK": ["p304"]
+    },
+
+    "Speaker p303": {
+        "VCTK": ["p303"]
+    },
+
+    "Speaker p335": {
+        "VCTK": ["p335"]
+    },
+
+    "Speaker p361": {
+        "VCTK": ["p361"]
+    },
+
+    "Speaker s5": {
+        "VCTK": ["s5"]
+    },
+
+    "Speaker p333": {
+        "VCTK": ["p333"]
+    },
+
+    "Speaker p334": {
+        "VCTK": ["p334"]
+    },
+
+    "Speaker p302": {
+        "VCTK": ["p302"]
+    },
+
+    "Speaker p305": {
+        "VCTK": ["p305"]
+    },
+
+    "Speaker p351": {
+        "VCTK": ["p351"]
+    },
+
+    "Speaker p360": {
+        "VCTK": ["p360"]
+    },
+
+    "Speaker p277": {
+        "VCTK": ["p277"]
+    },
+
+    "Speaker p283": {
+        "VCTK": ["p283"]
+    },
+
+    "Speaker p248": {
+        "VCTK": ["p248"]
+    },
+
+    "Speaker p284": {
+        "VCTK": ["p284"]
+    },
+
+    "Speaker p270": {
+        "VCTK": ["p270"]
+    },
+
+    "Speaker p246": {
+        "VCTK": ["p246"]
+    },
+
+    "Speaker p279": {
+        "VCTK": ["p279"]
+    },
+
+    "Speaker p241": {
+        "VCTK": ["p241"]
+    },
+
+    "Speaker p225": {
+        "VCTK": ["p225"]
+    },
+
+    "Speaker p240": {
+        "VCTK": ["p240"]
+    },
+
+    "Speaker p247": {
+        "VCTK": ["p247"]
+    },
+
+    "Speaker p278": {
+        "VCTK": ["p278"]
+    },
+
+    "Speaker p271": {
+        "VCTK": ["p271"]
+    },
+
+    "Speaker p285": {
+        "VCTK": ["p285"]
+    },
+
+    "Speaker p282": {
+        "VCTK": ["p282"]
+    },
+
+    "Speaker p276": {
+        "VCTK": ["p276"]
+    },
+
+    "Speaker p249": {
+        "VCTK": ["p249"]
+    },
+
+    "Speaker p254": {
+        "VCTK": ["p254"]
+    },
+
+    "Speaker p298": {
+        "VCTK": ["p298"]
+    },
+
+    "Speaker p253": {
+        "VCTK": ["p253"]
+    },
+
+    "Speaker p265": {
+        "VCTK": ["p265"]
+    },
+
+    "Speaker p262": {
+        "VCTK": ["p262"]
+    },
+
+    "Speaker p236": {
+        "VCTK": ["p236"]
+    },
+
+    "Speaker p231": {
+        "VCTK": ["p231"]
+    },
+
+    "Speaker p238": {
+        "VCTK": ["p238"]
+    },
+
+    "Speaker p263": {
+        "VCTK": ["p263"]
+    },
+
+    "Speaker p297": {
+        "VCTK": ["p297"]
+    },
+
+    "Speaker p264": {
+        "VCTK": ["p264"]
+    },
+
+    "Speaker p299": {
+        "VCTK": ["p299"]
+    },
+
+    "Speaker p252": {
+        "VCTK": ["p252"]
+    },
+
+    "Speaker p255": {
+        "VCTK": ["p255"]
+    },
+
+    "Speaker p239": {
+        "VCTK": ["p239"]
+    },
+
+    "Speaker p230": {
+        "VCTK": ["p230"]
+    },
+
+    "Speaker p237": {
+        "VCTK": ["p237"]
+    },
+
+    "Speaker p345": {
+        "VCTK": ["p345"]
+    },
+
+    "Speaker p374": {
+        "VCTK": ["p374"]
+    },
+
+    "Speaker p318": {
+        "VCTK": ["p318"]
+    },
+
+    "Speaker p316": {
+        "VCTK": ["p316"]
+    },
+
+    "Speaker p329": {
+        "VCTK": ["p329"]
+    },
+
+    "Speaker p311": {
+        "VCTK": ["p311"]
+    },
+
+    "Speaker p343": {
+        "VCTK": ["p343"]
+    },
+
+    "Speaker p310": {
+        "VCTK": ["p310"]
+    },
+
+    "Speaker p317": {
+        "VCTK": ["p317"]
+    },
+
+    "Speaker p326": {
+        "VCTK": ["p326"]
+    },
+
+    "Speaker p362": {
+        "VCTK": ["p362"]
+    },
+
+    "Speaker p300": {
+        "VCTK": ["p300"]
+    },
+
+    "Speaker p307": {
+        "VCTK": ["p307"]
+    },
+
+    "Speaker p336": {
+        "VCTK": ["p336"]
+    },
+
+    "Speaker p364": {
+        "VCTK": ["p364"]
+    },
+
+    "Speaker p363": {
+        "VCTK": ["p363"]
+    },
+
+    "Speaker p308": {
+        "VCTK": ["p308"]
+    },
+
+    "Speaker p330": {
+        "VCTK": ["p330"]
+    },
+
+    "Speaker p339": {
+        "VCTK": ["p339"]
+    },
+
+    "Speaker p306": {
+        "VCTK": ["p306"]
+    },
+
+    "Speaker p301": {
+        "VCTK": ["p301"]
+    },
+
+    "Speaker p287": {
+        "VCTK": ["p287"]
+    },
+
+    "Speaker p273": {
+        "VCTK": ["p273"]
+    },
+
+    "Speaker p274": {
+        "VCTK": ["p274"]
+    },
+
+    "Speaker p280": {
+        "VCTK": ["p280"]
+    },
+
+    "Speaker p245": {
+        "VCTK": ["p245"]
+    },
+
+    "Speaker p229": {
+        "VCTK": ["p229"]
+    },
+
+    "Speaker p227": {
+        "VCTK": ["p227"]
+    },
+
+    "Speaker p244": {
+        "VCTK": ["p244"]
+    },
+
+    "Speaker p243": {
+        "VCTK": ["p243"]
+    },
+
+    "Speaker p288": {
+        "VCTK": ["p288"]
+    },
+
+    "Speaker p281": {
+        "VCTK": ["p281"]
+    },
+
+    "Speaker p275": {
+        "VCTK": ["p275"]
+    },
+
+    "Speaker p272": {
+        "VCTK": ["p272"]
+    },
+
+    "Speaker p286": {
+        "VCTK": ["p286"]
+    },
+
+    "Speaker p226": {
+        "VCTK": ["p226"]
+    },
+
+    "Speaker p228": {
+        "VCTK": ["p228"]
+    },
+
+    "Speaker p232": {
+        "VCTK": ["p232"]
+    },
+
+    "Speaker p250": {
+        "VCTK": ["p250"]
+    },
+
+    "Speaker p268": {
+        "VCTK": ["p268"]
+    },
+
+    "Speaker p257": {
+        "VCTK": ["p257"]
+    },
+
+    "Speaker p295": {
+        "VCTK": ["p295"]
+    },
+
+    "Speaker p261": {
+        "VCTK": ["p261"]
+    },
+
+    "Speaker p259": {
+        "VCTK": ["p259"]
+    },
+
+    "Speaker p266": {
+        "VCTK": ["p266"]
+    },
+
+    "Speaker p292": {
+        "VCTK": ["p292"]
+    },
+
+    "Speaker p234": {
+        "VCTK": ["p234"]
+    },
+
+    "Speaker p233": {
+        "VCTK": ["p233"]
+    },
+
+    "Speaker p258": {
+        "VCTK": ["p258"]
+    },
+
+    "Speaker p293": {
+        "VCTK": ["p293"]
+    },
+
+    "Speaker p267": {
+        "VCTK": ["p267"]
+    },
+
+    "Speaker p260": {
+        "VCTK": ["p260"]
+    },
+
+    "Speaker p294": {
+        "VCTK": ["p294"]
+    },
+
+    "Speaker p269": {
+        "VCTK": ["p269"]
+    },
+
+    "Speaker p256": {
+        "VCTK": ["p256"]
+    },
+
+    "Speaker p251": {
+        "VCTK": ["p251"]
+    },
+
+    "Speaker p323": {
+        "VCTK": ["p323"]
+    },
+
+    "Speaker p312": {
+        "VCTK": ["p312"]
+    },
+
+    "Speaker p315": {
+        "VCTK": ["p315"]
+    },
+
+    "Speaker p341": {
+        "VCTK": ["p341"]
+    },
+
+    "Speaker p314": {
+        "VCTK": ["p314"]
+    },
+
+    "Speaker p313": {
+        "VCTK": ["p313"]
+    },
+
+    "Speaker p376": {
+        "VCTK": ["p376"]
+    },
+
+    "Speaker p347": {
+        "VCTK": ["p347"]
+    },
+
+    "Speaker p340": {
+        "VCTK": ["p340"]
+    },
+
+    "Speaker 1069": {
+        "LibriSpeech": ["1069"]
+    },
+
+    "Speaker 8580": {
+        "LibriSpeech": ["8580"]
+    },
+
+    "Speaker 3168": {
+        "LibriSpeech": ["3168"]
+    },
+
+    "Speaker 909": {
+        "LibriSpeech": ["909"]
+    },
+
+    "Speaker 307": {
+        "LibriSpeech": ["307"]
+    },
+
+    "Speaker 2618": {
+        "LibriSpeech": ["2618"]
+    },
+
+    "Speaker 5092": {
+        "LibriSpeech": ["5092"]
+    },
+
+    "Speaker 3157": {
+        "LibriSpeech": ["3157"]
+    },
+
+    "Speaker 2085": {
+        "LibriSpeech": ["2085"]
+    },
+
+    "Speaker 1264": {
+        "LibriSpeech": ["1264"]
+    },
+
+    "Speaker 61": {
+        "LibriSpeech": ["61"]
+    },
+
+    "Speaker 1290": {
+        "LibriSpeech": ["1290"]
+    },
+
+    "Speaker 764": {
+        "LibriSpeech": ["764"]
+    },
+
+    "Speaker 8573": {
+        "LibriSpeech": ["8573"]
+    },
+
+    "Speaker 1638": {
+        "LibriSpeech": ["1638"]
+    },
+
+    "Speaker 5637": {
+        "LibriSpeech": ["5637"]
+    },
+
+    "Speaker 1263": {
+        "LibriSpeech": ["1263"]
+    },
+
+    "Speaker 1607": {
+        "LibriSpeech": ["1607"]
+    },
+
+    "Speaker 2843": {
+        "LibriSpeech": ["2843"]
+    },
+
+    "Speaker 8545": {
+        "LibriSpeech": ["8545"]
+    },
+
+    "Speaker 7169": {
+        "LibriSpeech": ["7169"]
+    },
+
+    "Speaker 594": {
+        "LibriSpeech": ["594"]
+    },
+
+    "Speaker 1058": {
+        "LibriSpeech": ["1058"]
+    },
+
+    "Speaker 1093": {
+        "LibriSpeech": ["1093"]
+    },
+
+    "Speaker 2272": {
+        "LibriSpeech": ["2272"]
+    },
+
+    "Speaker 593": {
+        "LibriSpeech": ["593"]
+    },
+
+    "Speaker 6880": {
+        "LibriSpeech": ["6880"]
+    },
+
+    "Speaker 103": {
+        "LibriSpeech": ["103"]
+    },
+
+    "Speaker 8770": {
+        "LibriSpeech": ["8770"]
+    },
+
+    "Speaker 1060": {
+        "LibriSpeech": ["1060"]
+    },
+
+    "Speaker 8119": {
+        "LibriSpeech": ["8119"]
+    },
+
+    "Speaker 5606": {
+        "LibriSpeech": ["5606"]
+    },
+
+    "Speaker 1034": {
+        "LibriSpeech": ["1034"]
+    },
+
+    "Speaker 3551": {
+        "LibriSpeech": ["3551"]
+    },
+
+    "Speaker 3307": {
+        "LibriSpeech": ["3307"]
+    },
+
+    "Speaker 954": {
+        "LibriSpeech": ["954"]
+    },
+
+    "Speaker 5652": {
+        "LibriSpeech": ["5652"]
+    },
+
+    "Speaker 7939": {
+        "LibriSpeech": ["7939"]
+    },
+
+    "Speaker 157": {
+        "LibriSpeech": ["157"]
+    },
+
+    "Speaker 5655": {
+        "LibriSpeech": ["5655"]
+    },
+
+    "Speaker 3790": {
+        "LibriSpeech": ["3790"]
+    },
+
+    "Speaker 6686": {
+        "LibriSpeech": ["6686"]
+    },
+
+    "Speaker 7754": {
+        "LibriSpeech": ["7754"]
+    },
+
+    "Speaker 953": {
+        "LibriSpeech": ["953"]
+    },
+
+    "Speaker 6818": {
+        "LibriSpeech": ["6818"]
+    },
+
+    "Speaker 150": {
+        "LibriSpeech": ["150"]
+    },
+
+    "Speaker 2817": {
+        "LibriSpeech": ["2817"]
+    },
+
+    "Speaker 362": {
+        "LibriSpeech": ["362"]
+    },
+
+    "Speaker 8347": {
+        "LibriSpeech": ["8347"]
+    },
+
+    "Speaker 534": {
+        "LibriSpeech": ["534"]
+    },
+
+    "Speaker 4926": {
+        "LibriSpeech": ["4926"]
+    },
+
+    "Speaker 5809": {
+        "LibriSpeech": ["5809"]
+    },
+
+    "Speaker 159": {
+        "LibriSpeech": ["159"]
+    },
+
+    "Speaker 7134": {
+        "LibriSpeech": ["7134"]
+    },
+
+    "Speaker 2674": {
+        "LibriSpeech": ["2674"]
+    },
+
+    "Speaker 32": {
+        "LibriSpeech": ["32"]
+    },
+
+    "Speaker 6476": {
+        "LibriSpeech": ["6476"]
+    },
+
+    "Speaker 730": {
+        "LibriSpeech": ["730"]
+    },
+
+    "Speaker 7339": {
+        "LibriSpeech": ["7339"]
+    },
+
+    "Speaker 8527": {
+        "LibriSpeech": ["8527"]
+    },
+
+    "Speaker 166": {
+        "LibriSpeech": ["166"]
+    },
+
+    "Speaker 192": {
+        "LibriSpeech": ["192"]
+    },
+
+    "Speaker 1806": {
+        "LibriSpeech": ["1806"]
+    },
+
+    "Speaker 398": {
+        "LibriSpeech": ["398"]
+    },
+
+    "Speaker 6643": {
+        "LibriSpeech": ["6643"]
+    },
+
+    "Speaker 6829": {
+        "LibriSpeech": ["6829"]
+    },
+
+    "Speaker 5456": {
+        "LibriSpeech": ["5456"]
+    },
+
+    "Speaker 708": {
+        "LibriSpeech": ["708"]
+    },
+
+    "Speaker 2673": {
+        "LibriSpeech": ["2673"]
+    },
+
+    "Speaker 1801": {
+        "LibriSpeech": ["1801"]
+    },
+
+    "Speaker 353": {
+        "LibriSpeech": ["353"]
+    },
+
+    "Speaker 7739": {
+        "LibriSpeech": ["7739"]
+    },
+
+    "Speaker 4148": {
+        "LibriSpeech": ["4148"]
+    },
+
+    "Speaker 8118": {
+        "LibriSpeech": ["8118"]
+    },
+
+    "Speaker 559": {
+        "LibriSpeech": ["559"]
+    },
+
+    "Speaker 6082": {
+        "LibriSpeech": ["6082"]
+    },
+
+    "Speaker 1061": {
+        "LibriSpeech": ["1061"]
+    },
+
+    "Speaker 56": {
+        "LibriSpeech": ["56"]
+    },
+
+    "Speaker 4719": {
+        "LibriSpeech": ["4719"]
+    },
+
+    "Speaker 4973": {
+        "LibriSpeech": ["4973"]
+    },
+
+    "Speaker 337": {
+        "LibriSpeech": ["337"]
+    },
+
+    "Speaker 8776": {
+        "LibriSpeech": ["8776"]
+    },
+
+    "Speaker 8312": {
+        "LibriSpeech": ["8312"]
+    },
+
+    "Speaker 2628": {
+        "LibriSpeech": ["2628"]
+    },
+
+    "Speaker 6288": {
+        "LibriSpeech": ["6288"]
+    },
+
+    "Speaker 561": {
+        "LibriSpeech": ["561"]
+    },
+
+    "Speaker 6415": {
+        "LibriSpeech": ["6415"]
+    },
+
+    "Speaker 5290": {
+        "LibriSpeech": ["5290"]
+    },
+
+    "Speaker 1066": {
+        "LibriSpeech": ["1066"]
+    },
+
+    "Speaker 1639": {
+        "LibriSpeech": ["1639"]
+    },
+
+    "Speaker 4945": {
+        "LibriSpeech": ["4945"]
+    },
+
+    "Speaker 3738": {
+        "LibriSpeech": ["3738"]
+    },
+
+    "Speaker 7398": {
+        "LibriSpeech": ["7398"]
+    },
+
+    "Speaker 6078": {
+        "LibriSpeech": ["6078"]
+    },
+
+    "Speaker 8324": {
+        "LibriSpeech": ["8324"]
+    },
+
+    "Speaker 7962": {
+        "LibriSpeech": ["7962"]
+    },
+
+    "Speaker 1050": {
+        "LibriSpeech": ["1050"]
+    },
+
+    "Speaker 7505": {
+        "LibriSpeech": ["7505"]
+    },
+
+    "Speaker 1296": {
+        "LibriSpeech": ["1296"]
+    },
+
+    "Speaker 93": {
+        "LibriSpeech": ["93"]
+    },
+
+    "Speaker 1898": {
+        "LibriSpeech": ["1898"]
+    },
+
+    "Speaker 8747": {
+        "LibriSpeech": ["8747"]
+    },
+
+    "Speaker 8575": {
+        "LibriSpeech": ["8575"]
+    },
+
+    "Speaker 7991": {
+        "LibriSpeech": ["7991"]
+    },
+
+    "Speaker 2289": {
+        "LibriSpeech": ["2289"]
+    },
+
+    "Speaker 6286": {
+        "LibriSpeech": ["6286"]
+    },
+
+    "Speaker 339": {
+        "LibriSpeech": ["339"]
+    },
+
+    "Speaker 7730": {
+        "LibriSpeech": ["7730"]
+    },
+
+    "Speaker 5093": {
+        "LibriSpeech": ["5093"]
+    },
+
+    "Speaker 6272": {
+        "LibriSpeech": ["6272"]
+    },
+
+    "Speaker 1265": {
+        "LibriSpeech": ["1265"]
+    },
+
+    "Speaker 60": {
+        "LibriSpeech": ["60"]
+    },
+
+    "Speaker 3330": {
+        "LibriSpeech": ["3330"]
+    },
+
+    "Speaker 6014": {
+        "LibriSpeech": ["6014"]
+    },
+
+    "Speaker 6828": {
+        "LibriSpeech": ["6828"]
+    },
+
+    "Speaker 7569": {
+        "LibriSpeech": ["7569"]
+    },
+
+    "Speaker 2827": {
+        "LibriSpeech": ["2827"]
+    },
+
+    "Speaker 8713": {
+        "LibriSpeech": ["8713"]
+    },
+
+    "Speaker 2229": {
+        "LibriSpeech": ["2229"]
+    },
+
+    "Speaker 4788": {
+        "LibriSpeech": ["4788"]
+    },
+
+    "Speaker 1800": {
+        "LibriSpeech": ["1800"]
+    },
+
+    "Speaker 4744": {
+        "LibriSpeech": ["4744"]
+    },
+
+    "Speaker 3105": {
+        "LibriSpeech": ["3105"]
+    },
+
+    "Speaker 1460": {
+        "LibriSpeech": ["1460"]
+    },
+
+    "Speaker 5206": {
+        "LibriSpeech": ["5206"]
+    },
+
+    "Speaker 5808": {
+        "LibriSpeech": ["5808"]
+    },
+
+    "Speaker 8142": {
+        "LibriSpeech": ["8142"]
+    },
+
+    "Speaker 731": {
+        "LibriSpeech": ["731"]
+    },
+
+    "Speaker 5239": {
+        "LibriSpeech": ["5239"]
+    },
+
+    "Speaker 6673": {
+        "LibriSpeech": ["6673"]
+    },
+
+    "Speaker 1456": {
+        "LibriSpeech": ["1456"]
+    },
+
+    "Speaker 5002": {
+        "LibriSpeech": ["5002"]
+    },
+
+    "Speaker 2688": {
+        "LibriSpeech": ["2688"]
+    },
+
+    "Speaker 8722": {
+        "LibriSpeech": ["8722"]
+    },
+
+    "Speaker 2816": {
+        "LibriSpeech": ["2816"]
+    },
+
+    "Speaker 707": {
+        "LibriSpeech": ["707"]
+    },
+
+    "Speaker 7752": {
+        "LibriSpeech": ["7752"]
+    },
+
+    "Speaker 2012": {
+        "LibriSpeech": ["2012"]
+    },
+
+    "Speaker 7938": {
+        "LibriSpeech": ["7938"]
+    },
+
+    "Speaker 6446": {
+        "LibriSpeech": ["6446"]
+    },
+
+    "Speaker 7594": {
+        "LibriSpeech": ["7594"]
+    },
+
+    "Speaker 8725": {
+        "LibriSpeech": ["8725"]
+    },
+
+    "Speaker 1944": {
+        "LibriSpeech": ["1944"]
+    },
+
+    "Speaker 7881": {
+        "LibriSpeech": ["7881"]
+    },
+
+    "Speaker 8465": {
+        "LibriSpeech": ["8465"]
+    },
+
+    "Speaker 216": {
+        "LibriSpeech": ["216"]
+    },
+
+    "Speaker 2709": {
+        "LibriSpeech": ["2709"]
+    },
+
+    "Speaker 3274": {
+        "LibriSpeech": ["3274"]
+    },
+
+    "Speaker 4051": {
+        "LibriSpeech": ["4051"]
+    },
+
+    "Speaker 2194": {
+        "LibriSpeech": ["2194"]
+    },
+
+    "Speaker 3046": {
+        "LibriSpeech": ["3046"]
+    },
+
+    "Speaker 5513": {
+        "LibriSpeech": ["5513"]
+    },
+
+    "Speaker 229": {
+        "LibriSpeech": ["229"]
+    },
+
+    "Speaker 4899": {
+        "LibriSpeech": ["4899"]
+    },
+
+    "Speaker 4297": {
+        "LibriSpeech": ["4297"]
+    },
+
+    "Speaker 8006": {
+        "LibriSpeech": ["8006"]
+    },
+
+    "Speaker 211": {
+        "LibriSpeech": ["211"]
+    },
+
+    "Speaker 5389": {
+        "LibriSpeech": ["5389"]
+    },
+
+    "Speaker 1943": {
+        "LibriSpeech": ["1943"]
+    },
+
+    "Speaker 4290": {
+        "LibriSpeech": ["4290"]
+    },
+
+    "Speaker 2167": {
+        "LibriSpeech": ["2167"]
+    },
+
+    "Speaker 820": {
+        "LibriSpeech": ["820"]
+    },
+
+    "Speaker 3889": {
+        "LibriSpeech": ["3889"]
+    },
+
+    "Speaker 5514": {
+        "LibriSpeech": ["5514"]
+    },
+
+    "Speaker 7085": {
+        "LibriSpeech": ["7085"]
+    },
+
+    "Speaker 6157": {
+        "LibriSpeech": ["6157"]
+    },
+
+    "Speaker 6701": {
+        "LibriSpeech": ["6701"]
+    },
+
+    "Speaker 227": {
+        "LibriSpeech": ["227"]
+    },
+
+    "Speaker 829": {
+        "LibriSpeech": ["829"]
+    },
+
+    "Speaker 2952": {
+        "LibriSpeech": ["2952"]
+    },
+
+    "Speaker 7078": {
+        "LibriSpeech": ["7078"]
+    },
+
+    "Speaker 1182": {
+        "LibriSpeech": ["1182"]
+    },
+
+    "Speaker 3083": {
+        "LibriSpeech": ["3083"]
+    },
+
+    "Speaker 816": {
+        "LibriSpeech": ["816"]
+    },
+
+    "Speaker 6505": {
+        "LibriSpeech": ["6505"]
+    },
+
+    "Speaker 2999": {
+        "LibriSpeech": ["2999"]
+    },
+
+    "Speaker 2397": {
+        "LibriSpeech": ["2397"]
+    },
+
+    "Speaker 688": {
+        "LibriSpeech": ["688"]
+    },
+
+    "Speaker 6965": {
+        "LibriSpeech": ["6965"]
+    },
+
+    "Speaker 476": {
+        "LibriSpeech": ["476"]
+    },
+
+    "Speaker 3289": {
+        "LibriSpeech": ["3289"]
+    },
+
+    "Speaker 1343": {
+        "LibriSpeech": ["1343"]
+    },
+
+    "Speaker 7286": {
+        "LibriSpeech": ["7286"]
+    },
+
+    "Speaker 3242": {
+        "LibriSpeech": ["3242"]
+    },
+
+    "Speaker 8498": {
+        "LibriSpeech": ["8498"]
+    },
+
+    "Speaker 3070": {
+        "LibriSpeech": ["3070"]
+    },
+
+    "Speaker 2364": {
+        "LibriSpeech": ["2364"]
+    },
+
+    "Speaker 2156": {
+        "LibriSpeech": ["2156"]
+    },
+
+    "Speaker 2532": {
+        "LibriSpeech": ["2532"]
+    },
+
+    "Speaker 8008": {
+        "LibriSpeech": ["8008"]
+    },
+
+    "Speaker 5717": {
+        "LibriSpeech": ["5717"]
+    },
+
+    "Speaker 6300": {
+        "LibriSpeech": ["6300"]
+    },
+
+    "Speaker 2592": {
+        "LibriSpeech": ["2592"]
+    },
+
+    "Speaker 3440": {
+        "LibriSpeech": ["3440"]
+    },
+
+    "Speaker 7484": {
+        "LibriSpeech": ["7484"]
+    },
+
+    "Speaker 5115": {
+        "LibriSpeech": ["5115"]
+    },
+
+    "Speaker 7226": {
+        "LibriSpeech": ["7226"]
+    },
+
+    "Speaker 3686": {
+        "LibriSpeech": ["3686"]
+    },
+
+    "Speaker 7828": {
+        "LibriSpeech": ["7828"]
+    },
+
+    "Speaker 4830": {
+        "LibriSpeech": ["4830"]
+    },
+
+    "Speaker 8097": {
+        "LibriSpeech": ["8097"]
+    },
+
+    "Speaker 1926": {
+        "LibriSpeech": ["1926"]
+    },
+
+    "Speaker 8063": {
+        "LibriSpeech": ["8063"]
+    },
+
+    "Speaker 8635": {
+        "LibriSpeech": ["8635"]
+    },
+
+    "Speaker 274": {
+        "LibriSpeech": ["274"]
+    },
+
+    "Speaker 6763": {
+        "LibriSpeech": ["6763"]
+    },
+
+    "Speaker 4837": {
+        "LibriSpeech": ["4837"]
+    },
+
+    "Speaker 5918": {
+        "LibriSpeech": ["5918"]
+    },
+
+    "Speaker 6567": {
+        "LibriSpeech": ["6567"]
+    },
+
+    "Speaker 1789": {
+        "LibriSpeech": ["1789"]
+    },
+
+    "Speaker 3816": {
+        "LibriSpeech": ["3816"]
+    },
+
+    "Speaker 887": {
+        "LibriSpeech": ["887"]
+    },
+
+    "Speaker 4839": {
+        "LibriSpeech": ["4839"]
+    },
+
+    "Speaker 289": {
+        "LibriSpeech": ["289"]
+    },
+
+    "Speaker 6104": {
+        "LibriSpeech": ["6104"]
+    },
+
+    "Speaker 4495": {
+        "LibriSpeech": ["4495"]
+    },
+
+    "Speaker 3482": {
+        "LibriSpeech": ["3482"]
+    },
+
+    "Speaker 5123": {
+        "LibriSpeech": ["5123"]
+    },
+
+    "Speaker 4806": {
+        "LibriSpeech": ["4806"]
+    },
+
+    "Speaker 242": {
+        "LibriSpeech": ["242"]
+    },
+
+    "Speaker 1987": {
+        "LibriSpeech": ["1987"]
+    },
+
+    "Speaker 2533": {
+        "LibriSpeech": ["2533"]
+    },
+
+    "Speaker 6167": {
+        "LibriSpeech": ["6167"]
+    },
+
+    "Speaker 5386": {
+        "LibriSpeech": ["5386"]
+    },
+
+    "Speaker 2391": {
+        "LibriSpeech": ["2391"]
+    },
+
+    "Speaker 1974": {
+        "LibriSpeech": ["1974"]
+    },
+
+    "Speaker 226": {
+        "LibriSpeech": ["226"]
+    },
+
+    "Speaker 1513": {
+        "LibriSpeech": ["1513"]
+    },
+
+    "Speaker 6160": {
+        "LibriSpeech": ["6160"]
+    },
+
+    "Speaker 6352": {
+        "LibriSpeech": ["6352"]
+    },
+
+    "Speaker 5147": {
+        "LibriSpeech": ["5147"]
+    },
+
+    "Speaker 3082": {
+        "LibriSpeech": ["3082"]
+    },
+
+    "Speaker 4854": {
+        "LibriSpeech": ["4854"]
+    },
+
+    "Speaker 446": {
+        "LibriSpeech": ["446"]
+    },
+
+    "Speaker 2159": {
+        "LibriSpeech": ["2159"]
+    },
+
+    "Speaker 210": {
+        "LibriSpeech": ["210"]
+    },
+
+    "Speaker 4057": {
+        "LibriSpeech": ["4057"]
+    },
+
+    "Speaker 1387": {
+        "LibriSpeech": ["1387"]
+    },
+
+    "Speaker 5727": {
+        "LibriSpeech": ["5727"]
+    },
+
+    "Speaker 479": {
+        "LibriSpeech": ["479"]
+    },
+
+    "Speaker 5975": {
+        "LibriSpeech": ["5975"]
+    },
+
+    "Speaker 217": {
+        "LibriSpeech": ["217"]
+    },
+
+    "Speaker 8464": {
+        "LibriSpeech": ["8464"]
+    },
+
+    "Speaker 7874": {
+        "LibriSpeech": ["7874"]
+    },
+
+    "Speaker 441": {
+        "LibriSpeech": ["441"]
+    },
+
+    "Speaker 4853": {
+        "LibriSpeech": ["4853"]
+    },
+
+    "Speaker 8490": {
+        "LibriSpeech": ["8490"]
+    },
+
+    "Speaker 7245": {
+        "LibriSpeech": ["7245"]
+    },
+
+    "Speaker 4898": {
+        "LibriSpeech": ["4898"]
+    },
+
+    "Speaker 4434": {
+        "LibriSpeech": ["4434"]
+    },
+
+    "Speaker 3483": {
+        "LibriSpeech": ["3483"]
+    },
+
+    "Speaker 7447": {
+        "LibriSpeech": ["7447"]
+    },
+
+    "Speaker 288": {
+        "LibriSpeech": ["288"]
+    },
+
+    "Speaker 3221": {
+        "LibriSpeech": ["3221"]
+    },
+
+    "Speaker 4236": {
+        "LibriSpeech": ["4236"]
+    },
+
+    "Speaker 1112": {
+        "LibriSpeech": ["1112"]
+    },
+
+    "Speaker 3645": {
+        "LibriSpeech": ["3645"]
+    },
+
+    "Speaker 7478": {
+        "LibriSpeech": ["7478"]
+    },
+
+    "Speaker 8266": {
+        "LibriSpeech": ["8266"]
+    },
+
+    "Speaker 6308": {
+        "LibriSpeech": ["6308"]
+    },
+
+    "Speaker 3448": {
+        "LibriSpeech": ["3448"]
+    },
+
+    "Speaker 4807": {
+        "LibriSpeech": ["4807"]
+    },
+
+    "Speaker 2790": {
+        "LibriSpeech": ["2790"]
+    },
+
+    "Speaker 6330": {
+        "LibriSpeech": ["6330"]
+    },
+
+    "Speaker 8098": {
+        "LibriSpeech": ["8098"]
+    },
+
+    "Speaker 1743": {
+        "LibriSpeech": ["1743"]
+    },
+
+    "Speaker 1571": {
+        "LibriSpeech": ["1571"]
+    },
+
+    "Speaker 2764": {
+        "LibriSpeech": ["2764"]
+    },
+
+    "Speaker 4800": {
+        "LibriSpeech": ["4800"]
+    },
+
+    "Speaker 412": {
+        "LibriSpeech": ["412"]
+    },
+
+    "Speaker 7229": {
+        "LibriSpeech": ["7229"]
+    },
+
+    "Speaker 8605": {
+        "LibriSpeech": ["8605"]
+    },
+
+    "Speaker 6550": {
+        "LibriSpeech": ["6550"]
+    },
+
+    "Speaker 1547": {
+        "LibriSpeech": ["1547"]
+    },
+
+    "Speaker 5583": {
+        "LibriSpeech": ["5583"]
+    },
+
+    "Speaker 1311": {
+        "LibriSpeech": ["1311"]
+    },
+
+    "Speaker 3446": {
+        "LibriSpeech": ["3446"]
+    },
+
+    "Speaker 6937": {
+        "LibriSpeech": ["6937"]
+    },
+
+    "Speaker 6339": {
+        "LibriSpeech": ["6339"]
+    },
+
+    "Speaker 1578": {
+        "LibriSpeech": ["1578"]
+    },
+
+    "Speaker 4238": {
+        "LibriSpeech": ["4238"]
+    },
+
+    "Speaker 272": {
+        "LibriSpeech": ["272"]
+    },
+
+    "Speaker 8401": {
+        "LibriSpeech": ["8401"]
+    },
+
+    "Speaker 5570": {
+        "LibriSpeech": ["5570"]
+    },
+
+    "Speaker 1316": {
+        "LibriSpeech": ["1316"]
+    },
+
+    "Speaker 3025": {
+        "LibriSpeech": ["3025"]
+    },
+
+    "Speaker 7816": {
+        "LibriSpeech": ["7816"]
+    },
+
+    "Speaker 5319": {
+        "LibriSpeech": ["5319"]
+    },
+
+    "Speaker 3228": {
+        "LibriSpeech": ["3228"]
+    },
+
+    "Speaker 7688": {
+        "LibriSpeech": ["7688"]
+    },
+
+    "Speaker 5789": {
+        "LibriSpeech": ["5789"]
+    },
+
+    "Speaker 5935": {
+        "LibriSpeech": ["5935"]
+    },
+
+    "Speaker 4813": {
+        "LibriSpeech": ["4813"]
+    },
+
+    "Speaker 7498": {
+        "LibriSpeech": ["7498"]
+    },
+
+    "Speaker 5304": {
+        "LibriSpeech": ["5304"]
+    },
+
+    "Speaker 8629": {
+        "LibriSpeech": ["8629"]
+    },
+
+    "Speaker 4222": {
+        "LibriSpeech": ["4222"]
+    },
+
+    "Speaker 6575": {
+        "LibriSpeech": ["6575"]
+    },
+
+    "Speaker 3235": {
+        "LibriSpeech": ["3235"]
+    },
+
+    "Speaker 4010": {
+        "LibriSpeech": ["4010"]
+    },
+
+    "Speaker 1334": {
+        "LibriSpeech": ["1334"]
+    },
+
+    "Speaker 2589": {
+        "LibriSpeech": ["2589"]
+    },
+
+    "Speaker 7833": {
+        "LibriSpeech": ["7833"]
+    },
+
+    "Speaker 250": {
+        "LibriSpeech": ["250"]
+    },
+
+    "Speaker 5767": {
+        "LibriSpeech": ["5767"]
+    },
+
+    "Speaker 3490": {
+        "LibriSpeech": ["3490"]
+    },
+
+    "Speaker 439": {
+        "LibriSpeech": ["439"]
+    },
+
+    "Speaker 7030": {
+        "LibriSpeech": ["7030"]
+    },
+
+    "Speaker 3009": {
+        "LibriSpeech": ["3009"]
+    },
+
+    "Speaker 3835": {
+        "LibriSpeech": ["3835"]
+    },
+
+    "Speaker 868": {
+        "LibriSpeech": ["868"]
+    },
+
+    "Speaker 1553": {
+        "LibriSpeech": ["1553"]
+    },
+
+    "Speaker 6544": {
+        "LibriSpeech": ["6544"]
+    },
+
+    "Speaker 6120": {
+        "LibriSpeech": ["6120"]
+    },
+
+    "Speaker 6782": {
+        "LibriSpeech": ["6782"]
+    },
+
+    "Speaker 2110": {
+        "LibriSpeech": ["2110"]
+    },
+
+    "Speaker 7802": {
+        "LibriSpeech": ["7802"]
+    },
+
+    "Speaker 6924": {
+        "LibriSpeech": ["6924"]
+    },
+
+    "Speaker 850": {
+        "LibriSpeech": ["850"]
+    },
+
+    "Speaker 2741": {
+        "LibriSpeech": ["2741"]
+    },
+
+    "Speaker 408": {
+        "LibriSpeech": ["408"]
+    },
+
+    "Speaker 2573": {
+        "LibriSpeech": ["2573"]
+    },
+
+    "Speaker 4214": {
+        "LibriSpeech": ["4214"]
+    },
+
+    "Speaker 5968": {
+        "LibriSpeech": ["5968"]
+    },
+
+    "Speaker 5154": {
+        "LibriSpeech": ["5154"]
+    },
+
+    "Speaker 6341": {
+        "LibriSpeech": ["6341"]
+    },
+
+    "Speaker 1958": {
+        "LibriSpeech": ["1958"]
+    },
+
+    "Speaker 7258": {
+        "LibriSpeech": ["7258"]
+    },
+
+    "Speaker 2518": {
+        "LibriSpeech": ["2518"]
+    },
+
+    "Speaker 3866": {
+        "LibriSpeech": ["3866"]
+    },
+
+    "Speaker 497": {
+        "LibriSpeech": ["497"]
+    },
+
+    "Speaker 6510": {
+        "LibriSpeech": ["6510"]
+    },
+
+    "Speaker 7294": {
+        "LibriSpeech": ["7294"]
+    },
+
+    "Speaker 669": {
+        "LibriSpeech": ["669"]
+    },
+
+    "Speaker 803": {
+        "LibriSpeech": ["803"]
+    },
+
+    "Speaker 8687": {
+        "LibriSpeech": ["8687"]
+    },
+
+    "Speaker 4278": {
+        "LibriSpeech": ["4278"]
+    },
+
+    "Speaker 464": {
+        "LibriSpeech": ["464"]
+    },
+
+    "Speaker 4427": {
+        "LibriSpeech": ["4427"]
+    },
+
+    "Speaker 7090": {
+        "LibriSpeech": ["7090"]
+    },
+
+    "Speaker 835": {
+        "LibriSpeech": ["835"]
+    },
+
+    "Speaker 3259": {
+        "LibriSpeech": ["3259"]
+    },
+
+    "Speaker 6519": {
+        "LibriSpeech": ["6519"]
+    },
+
+    "Speaker 3857": {
+        "LibriSpeech": ["3857"]
+    },
+
+    "Speaker 6189": {
+        "LibriSpeech": ["6189"]
+    },
+
+    "Speaker 7867": {
+        "LibriSpeech": ["7867"]
+    },
+
+    "Speaker 204": {
+        "LibriSpeech": ["204"]
+    },
+
+    "Speaker 4088": {
+        "LibriSpeech": ["4088"]
+    },
+
+    "Speaker 2971": {
+        "LibriSpeech": ["2971"]
+    },
+
+    "Speaker 7635": {
+        "LibriSpeech": ["7635"]
+    },
+
+    "Speaker 1536": {
+        "LibriSpeech": ["1536"]
+    },
+
+    "Speaker 4044": {
+        "LibriSpeech": ["4044"]
+    },
+
+    "Speaker 203": {
+        "LibriSpeech": ["203"]
+    },
+
+    "Speaker 8226": {
+        "LibriSpeech": ["8226"]
+    },
+
+    "Speaker 667": {
+        "LibriSpeech": ["667"]
+    },
+
+    "Speaker 1509": {
+        "LibriSpeech": ["1509"]
+    },
+
+    "Speaker 4018": {
+        "LibriSpeech": ["4018"]
+    },
+
+    "Speaker 6119": {
+        "LibriSpeech": ["6119"]
+    },
+
+    "Speaker 6925": {
+        "LibriSpeech": ["6925"]
+    },
+
+    "Speaker 260": {
+        "LibriSpeech": ["260"]
+    },
+
+    "Speaker 5333": {
+        "LibriSpeech": ["5333"]
+    },
+
+    "Speaker 7000": {
+        "LibriSpeech": ["7000"]
+    },
+
+    "Speaker 409": {
+        "LibriSpeech": ["409"]
+    },
+
+    "Speaker 5139": {
+        "LibriSpeech": ["5139"]
+    },
+
+    "Speaker 3008": {
+        "LibriSpeech": ["3008"]
+    },
+
+    "Speaker 5750": {
+        "LibriSpeech": ["5750"]
+    },
+
+    "Speaker 8619": {
+        "LibriSpeech": ["8619"]
+    },
+
+    "Speaker 258": {
+        "LibriSpeech": ["258"]
+    },
+
+    "Speaker 1552": {
+        "LibriSpeech": ["1552"]
+    },
+
+    "Speaker 8887": {
+        "LibriSpeech": ["8887"]
+    },
+
+    "Speaker 2581": {
+        "LibriSpeech": ["2581"]
+    },
+
+    "Speaker 7832": {
+        "LibriSpeech": ["7832"]
+    },
+
+    "Speaker 1769": {
+        "LibriSpeech": ["1769"]
+    },
+
+    "Speaker 1903": {
+        "LibriSpeech": ["1903"]
+    },
+
+    "Speaker 2127": {
+        "LibriSpeech": ["2127"]
+    },
+
+    "Speaker 2785": {
+        "LibriSpeech": ["2785"]
+    },
+
+    "Speaker 1100": {
+        "LibriSpeech": ["1100"]
+    },
+
+    "Speaker 4640": {
+        "LibriSpeech": ["4640"]
+    },
+
+    "Speaker 3001": {
+        "LibriSpeech": ["3001"]
+    },
+
+    "Speaker 8425": {
+        "LibriSpeech": ["8425"]
+    },
+
+    "Speaker 6574": {
+        "LibriSpeech": ["6574"]
+    },
+
+    "Speaker 1335": {
+        "LibriSpeech": ["1335"]
+    },
+
+    "Speaker 4481": {
+        "LibriSpeech": ["4481"]
+    },
+
+    "Speaker 1705": {
+        "LibriSpeech": ["1705"]
+    },
+
+    "Speaker 3436": {
+        "LibriSpeech": ["3436"]
+    },
+
+    "Speaker 5163": {
+        "LibriSpeech": ["5163"]
+    },
+
+    "Speaker 3294": {
+        "LibriSpeech": ["3294"]
+    },
+
+    "Speaker 4846": {
+        "LibriSpeech": ["4846"]
+    },
+
+    "Speaker 3851": {
+        "LibriSpeech": ["3851"]
+    },
+
+    "Speaker 8643": {
+        "LibriSpeech": ["8643"]
+    },
+
+    "Speaker 454": {
+        "LibriSpeech": ["454"]
+    },
+
+    "Speaker 666": {
+        "LibriSpeech": ["666"]
+    },
+
+    "Speaker 5538": {
+        "LibriSpeech": ["5538"]
+    },
+
+    "Speaker 834": {
+        "LibriSpeech": ["834"]
+    },
+
+    "Speaker 7859": {
+        "LibriSpeech": ["7859"]
+    },
+
+    "Speaker 2517": {
+        "LibriSpeech": ["2517"]
+    },
+
+    "Speaker 1392": {
+        "LibriSpeech": ["1392"]
+    },
+
+    "Speaker 6385": {
+        "LibriSpeech": ["6385"]
+    },
+
+    "Speaker 6371": {
+        "LibriSpeech": ["6371"]
+    },
+
+    "Speaker 5190": {
+        "LibriSpeech": ["5190"]
+    },
+
+    "Speaker 3869": {
+        "LibriSpeech": ["3869"]
+    },
+
+    "Speaker 6188": {
+        "LibriSpeech": ["6188"]
+    },
+
+    "Speaker 205": {
+        "LibriSpeech": ["205"]
+    },
+
+    "Speaker 6518": {
+        "LibriSpeech": ["6518"]
+    },
+
+    "Speaker 3258": {
+        "LibriSpeech": ["3258"]
+    },
+
+    "Speaker 6181": {
+        "LibriSpeech": ["6181"]
+    },
+
+    "Speaker 7437": {
+        "LibriSpeech": ["7437"]
+    },
+
+    "Speaker 4848": {
+        "LibriSpeech": ["4848"]
+    },
+
+    "Speaker 1734": {
+        "LibriSpeech": ["1734"]
+    },
+
+    "Speaker 233": {
+        "LibriSpeech": ["233"]
+    },
+
+    "Speaker 2348": {
+        "LibriSpeech": ["2348"]
+    },
+
+    "Speaker 1961": {
+        "LibriSpeech": ["1961"]
+    },
+
+    "Speaker 6378": {
+        "LibriSpeech": ["6378"]
+    },
+
+    "Speaker 1165": {
+        "LibriSpeech": ["1165"]
+    },
+
+    "Speaker 5393": {
+        "LibriSpeech": ["5393"]
+    },
+
+    "Speaker 2384": {
+        "LibriSpeech": ["2384"]
+    },
+
+    "Speaker 5703": {
+        "LibriSpeech": ["5703"]
+    },
+
+    "Speaker 7868": {
+        "LibriSpeech": ["7868"]
+    },
+
+    "Speaker 8820": {
+        "LibriSpeech": ["8820"]
+    },
+
+    "Speaker 6529": {
+        "LibriSpeech": ["6529"]
+    },
+
+    "Speaker 948": {
+        "LibriSpeech": ["948"]
+    },
+
+    "Speaker 510": {
+        "LibriSpeech": ["510"]
+    },
+
+    "Speaker 1028": {
+        "LibriSpeech": ["1028"]
+    },
+
+    "Speaker 7314": {
+        "LibriSpeech": ["7314"]
+    },
+
+    "Speaker 7126": {
+        "LibriSpeech": ["7126"]
+    },
+
+    "Speaker 1487": {
+        "LibriSpeech": ["1487"]
+    },
+
+    "Speaker 1473": {
+        "LibriSpeech": ["1473"]
+    },
+
+    "Speaker 6000": {
+        "LibriSpeech": ["6000"]
+    },
+
+    "Speaker 6038": {
+        "LibriSpeech": ["6038"]
+    },
+
+    "Speaker 2498": {
+        "LibriSpeech": ["2498"]
+    },
+
+    "Speaker 1222": {
+        "LibriSpeech": ["1222"]
+    },
+
+    "Speaker 27": {
+        "LibriSpeech": ["27"]
+    },
+
+    "Speaker 6235": {
+        "LibriSpeech": ["6235"]
+    },
+
+    "Speaker 7783": {
+        "LibriSpeech": ["7783"]
+    },
+
+    "Speaker 984": {
+        "LibriSpeech": ["984"]
+    },
+
+    "Speaker 7777": {
+        "LibriSpeech": ["7777"]
+    },
+
+    "Speaker 6497": {
+        "LibriSpeech": ["6497"]
+    },
+
+    "Speaker 7313": {
+        "LibriSpeech": ["7313"]
+    },
+
+    "Speaker 1825": {
+        "LibriSpeech": ["1825"]
+    },
+
+    "Speaker 8194": {
+        "LibriSpeech": ["8194"]
+    },
+
+    "Speaker 3118": {
+        "LibriSpeech": ["3118"]
+    },
+
+    "Speaker 5029": {
+        "LibriSpeech": ["5029"]
+    },
+
+    "Speaker 7128": {
+        "LibriSpeech": ["7128"]
+    },
+
+    "Speaker 7117": {
+        "LibriSpeech": ["7117"]
+    },
+
+    "Speaker 5678": {
+        "LibriSpeech": ["5678"]
+    },
+
+    "Speaker 4598": {
+        "LibriSpeech": ["4598"]
+    },
+
+    "Speaker 6499": {
+        "LibriSpeech": ["6499"]
+    },
+
+    "Speaker 2039": {
+        "LibriSpeech": ["2039"]
+    },
+
+    "Speaker 4108": {
+        "LibriSpeech": ["4108"]
+    },
+
+    "Speaker 3923": {
+        "LibriSpeech": ["3923"]
+    },
+
+    "Speaker 8193": {
+        "LibriSpeech": ["8193"]
+    },
+
+    "Speaker 6694": {
+        "LibriSpeech": ["6694"]
+    },
+
+    "Speaker 16": {
+        "LibriSpeech": ["16"]
+    },
+
+    "Speaker 1445": {
+        "LibriSpeech": ["1445"]
+    },
+
+    "Speaker 4137": {
+        "LibriSpeech": ["4137"]
+    },
+
+    "Speaker 3180": {
+        "LibriSpeech": ["3180"]
+    },
+
+    "Speaker 7520": {
+        "LibriSpeech": ["7520"]
+    },
+
+    "Speaker 2436": {
+        "LibriSpeech": ["2436"]
+    },
+
+    "Speaker 1081": {
+        "LibriSpeech": ["1081"]
+    },
+
+    "Speaker 1849": {
+        "LibriSpeech": ["1849"]
+    },
+
+    "Speaker 2294": {
+        "LibriSpeech": ["2294"]
+    },
+
+    "Speaker 6406": {
+        "LibriSpeech": ["6406"]
+    },
+
+    "Speaker 6895": {
+        "LibriSpeech": ["6895"]
+    },
+
+    "Speaker 89": {
+        "LibriSpeech": ["89"]
+    },
+
+    "Speaker 3983": {
+        "LibriSpeech": ["3983"]
+    },
+
+    "Speaker 3977": {
+        "LibriSpeech": ["3977"]
+    },
+
+    "Speaker 3379": {
+        "LibriSpeech": ["3379"]
+    },
+
+    "Speaker 8791": {
+        "LibriSpeech": ["8791"]
+    },
+
+    "Speaker 4356": {
+        "LibriSpeech": ["4356"]
+    },
+
+    "Speaker 1624": {
+        "LibriSpeech": ["1624"]
+    },
+
+    "Speaker 3187": {
+        "LibriSpeech": ["3187"]
+    },
+
+    "Speaker 581": {
+        "LibriSpeech": ["581"]
+    },
+
+    "Speaker 7188": {
+        "LibriSpeech": ["7188"]
+    },
+
+    "Speaker 4967": {
+        "LibriSpeech": ["4967"]
+    },
+
+    "Speaker 323": {
+        "LibriSpeech": ["323"]
+    },
+
+    "Speaker 7518": {
+        "LibriSpeech": ["7518"]
+    },
+
+    "Speaker 1885": {
+        "LibriSpeech": ["1885"]
+    },
+
+    "Speaker 3521": {
+        "LibriSpeech": ["3521"]
+    },
+
+    "Speaker 3979": {
+        "LibriSpeech": ["3979"]
+    },
+
+    "Speaker 6437": {
+        "LibriSpeech": ["6437"]
+    },
+
+    "Speaker 4152": {
+        "LibriSpeech": ["4152"]
+    },
+
+    "Speaker 118": {
+        "LibriSpeech": ["118"]
+    },
+
+    "Speaker 7511": {
+        "LibriSpeech": ["7511"]
+    },
+
+    "Speaker 5246": {
+        "LibriSpeech": ["5246"]
+    },
+
+    "Speaker 87": {
+        "LibriSpeech": ["87"]
+    },
+
+    "Speaker 7949": {
+        "LibriSpeech": ["7949"]
+    },
+
+    "Speaker 5622": {
+        "LibriSpeech": ["5622"]
+    },
+
+    "Speaker 5883": {
+        "LibriSpeech": ["5883"]
+    },
+
+    "Speaker 8592": {
+        "LibriSpeech": ["8592"]
+    },
+
+    "Speaker 7982": {
+        "LibriSpeech": ["7982"]
+    },
+
+    "Speaker 543": {
+        "LibriSpeech": ["543"]
+    },
+
+    "Speaker 6098": {
+        "LibriSpeech": ["6098"]
+    },
+
+    "Speaker 2256": {
+        "LibriSpeech": ["2256"]
+    },
+
+    "Speaker 3370": {
+        "LibriSpeech": ["3370"]
+    },
+
+    "Speaker 3526": {
+        "LibriSpeech": ["3526"]
+    },
+
+    "Speaker 6054": {
+        "LibriSpeech": ["6054"]
+    },
+
+    "Speaker 1271": {
+        "LibriSpeech": ["1271"]
+    },
+
+    "Speaker 2269": {
+        "LibriSpeech": ["2269"]
+    },
+
+    "Speaker 1088": {
+        "LibriSpeech": ["1088"]
+    },
+
+    "Speaker 9023": {
+        "LibriSpeech": ["9023"]
+    },
+
+    "Speaker 4358": {
+        "LibriSpeech": ["4358"]
+    },
+
+    "Speaker 2893": {
+        "LibriSpeech": ["2893"]
+    },
+
+    "Speaker 1649": {
+        "LibriSpeech": ["1649"]
+    },
+
+    "Speaker 3922": {
+        "LibriSpeech": ["3922"]
+    },
+
+    "Speaker 28": {
+        "LibriSpeech": ["28"]
+    },
+
+    "Speaker 17": {
+        "LibriSpeech": ["17"]
+    },
+
+    "Speaker 1212": {
+        "LibriSpeech": ["1212"]
+    },
+
+    "Speaker 188": {
+        "LibriSpeech": ["188"]
+    },
+
+    "Speaker 2007": {
+        "LibriSpeech": ["2007"]
+    },
+
+    "Speaker 8195": {
+        "LibriSpeech": ["8195"]
+    },
+
+    "Speaker 1018": {
+        "LibriSpeech": ["1018"]
+    },
+
+    "Speaker 3119": {
+        "LibriSpeech": ["3119"]
+    },
+
+    "Speaker 6454": {
+        "LibriSpeech": ["6454"]
+    },
+
+    "Speaker 1027": {
+        "LibriSpeech": ["1027"]
+    },
+
+    "Speaker 724": {
+        "LibriSpeech": ["724"]
+    },
+
+    "Speaker 340": {
+        "LibriSpeech": ["340"]
+    },
+
+    "Speaker 4138": {
+        "LibriSpeech": ["4138"]
+    },
+
+    "Speaker 1678": {
+        "LibriSpeech": ["1678"]
+    },
+
+    "Speaker 2499": {
+        "LibriSpeech": ["2499"]
+    },
+
+    "Speaker 19": {
+        "LibriSpeech": ["19"]
+    },
+
+    "Speaker 2204": {
+        "LibriSpeech": ["2204"]
+    },
+
+    "Speaker 7120": {
+        "LibriSpeech": ["7120"]
+    },
+
+    "Speaker 26": {
+        "LibriSpeech": ["26"]
+    },
+
+    "Speaker 6006": {
+        "LibriSpeech": ["6006"]
+    },
+
+    "Speaker 4335": {
+        "LibriSpeech": ["4335"]
+    },
+
+    "Speaker 5489": {
+        "LibriSpeech": ["5489"]
+    },
+
+    "Speaker 8396": {
+        "LibriSpeech": ["8396"]
+    },
+
+    "Speaker 3914": {
+        "LibriSpeech": ["3914"]
+    },
+
+    "Speaker 8534": {
+        "LibriSpeech": ["8534"]
+    },
+
+    "Speaker 175": {
+        "LibriSpeech": ["175"]
+    },
+
+    "Speaker 949": {
+        "LibriSpeech": ["949"]
+    },
+
+    "Speaker 511": {
+        "LibriSpeech": ["511"]
+    },
+
+    "Speaker 1472": {
+        "LibriSpeech": ["1472"]
+    },
+
+    "Speaker 5684": {
+        "LibriSpeech": ["5684"]
+    },
+
+    "Speaker 1224": {
+        "LibriSpeech": ["1224"]
+    },
+
+    "Speaker 6233": {
+        "LibriSpeech": ["6233"]
+    },
+
+    "Speaker 4590": {
+        "LibriSpeech": ["4590"]
+    },
+
+    "Speaker 2401": {
+        "LibriSpeech": ["2401"]
+    },
+
+    "Speaker 81": {
+        "LibriSpeech": ["81"]
+    },
+
+    "Speaker 7517": {
+        "LibriSpeech": ["7517"]
+    },
+
+    "Speaker 922": {
+        "LibriSpeech": ["922"]
+    },
+
+    "Speaker 9022": {
+        "LibriSpeech": ["9022"]
+    },
+
+    "Speaker 6258": {
+        "LibriSpeech": ["6258"]
+    },
+
+    "Speaker 783": {
+        "LibriSpeech": ["783"]
+    },
+
+    "Speaker 1841": {
+        "LibriSpeech": ["1841"]
+    },
+
+    "Speaker 4957": {
+        "LibriSpeech": ["4957"]
+    },
+
+    "Speaker 925": {
+        "LibriSpeech": ["925"]
+    },
+
+    "Speaker 119": {
+        "LibriSpeech": ["119"]
+    },
+
+    "Speaker 1283": {
+        "LibriSpeech": ["1283"]
+    },
+
+    "Speaker 6294": {
+        "LibriSpeech": ["6294"]
+    },
+
+    "Speaker 589": {
+        "LibriSpeech": ["589"]
+    },
+
+    "Speaker 770": {
+        "LibriSpeech": ["770"]
+    },
+
+    "Speaker 6099": {
+        "LibriSpeech": ["6099"]
+    },
+
+    "Speaker 126": {
+        "LibriSpeech": ["126"]
+    },
+
+    "Speaker 5876": {
+        "LibriSpeech": ["5876"]
+    },
+
+    "Speaker 3947": {
+        "LibriSpeech": ["3947"]
+    },
+
+    "Speaker 3340": {
+        "LibriSpeech": ["3340"]
+    },
+
+    "Speaker 1417": {
+        "LibriSpeech": ["1417"]
+    },
+
+    "Speaker 1241": {
+        "LibriSpeech": ["1241"]
+    },
+
+    "Speaker 4733": {
+        "LibriSpeech": ["4733"]
+    },
+
+    "Speaker 6064": {
+        "LibriSpeech": ["6064"]
+    },
+
+    "Speaker 7384": {
+        "LibriSpeech": ["7384"]
+    },
+
+    "Speaker 322": {
+        "LibriSpeech": ["322"]
+    },
+
+    "Speaker 6269": {
+        "LibriSpeech": ["6269"]
+    },
+
+    "Speaker 580": {
+        "LibriSpeech": ["580"]
+    },
+
+    "Speaker 8797": {
+        "LibriSpeech": ["8797"]
+    },
+
+    "Speaker 7383": {
+        "LibriSpeech": ["7383"]
+    },
+
+    "Speaker 3723": {
+        "LibriSpeech": ["3723"]
+    },
+
+    "Speaker 1246": {
+        "LibriSpeech": ["1246"]
+    },
+
+    "Speaker 4734": {
+        "LibriSpeech": ["4734"]
+    },
+
+    "Speaker 3347": {
+        "LibriSpeech": ["3347"]
+    },
+
+    "Speaker 2053": {
+        "LibriSpeech": ["2053"]
+    },
+
+    "Speaker 7145": {
+        "LibriSpeech": ["7145"]
+    },
+
+    "Speaker 587": {
+        "LibriSpeech": ["587"]
+    },
+
+    "Speaker 8300": {
+        "LibriSpeech": ["8300"]
+    },
+
+    "Speaker 3982": {
+        "LibriSpeech": ["3982"]
+    },
+
+    "Speaker 5656": {
+        "LibriSpeech": ["5656"]
+    },
+
+    "Speaker 2473": {
+        "LibriSpeech": ["2473"]
+    },
+
+    "Speaker 8975": {
+        "LibriSpeech": ["8975"]
+    },
+
+    "Speaker 198": {
+        "LibriSpeech": ["198"]
+    },
+
+    "Speaker 6215": {
+        "LibriSpeech": ["6215"]
+    },
+
+    "Speaker 4770": {
+        "LibriSpeech": ["4770"]
+    },
+
+    "Speaker 8176": {
+        "LibriSpeech": ["8176"]
+    },
+
+    "Speaker 38": {
+        "LibriSpeech": ["38"]
+    },
+
+    "Speaker 8388": {
+        "LibriSpeech": ["8388"]
+    },
+
+    "Speaker 8718": {
+        "LibriSpeech": ["8718"]
+    },
+
+    "Speaker 359": {
+        "LibriSpeech": ["359"]
+    },
+
+    "Speaker 5007": {
+        "LibriSpeech": ["5007"]
+    },
+
+    "Speaker 2010": {
+        "LibriSpeech": ["2010"]
+    },
+
+    "Speaker 957": {
+        "LibriSpeech": ["957"]
+    },
+
+    "Speaker 5463": {
+        "LibriSpeech": ["5463"]
+    },
+
+    "Speaker 7139": {
+        "LibriSpeech": ["7139"]
+    },
+
+    "Speaker 154": {
+        "LibriSpeech": ["154"]
+    },
+
+    "Speaker 968": {
+        "LibriSpeech": ["968"]
+    },
+
+    "Speaker 1498": {
+        "LibriSpeech": ["1498"]
+    },
+
+    "Speaker 1001": {
+        "LibriSpeech": ["1001"]
+    },
+
+    "Speaker 7302": {
+        "LibriSpeech": ["7302"]
+    },
+
+    "Speaker 7766": {
+        "LibriSpeech": ["7766"]
+    },
+
+    "Speaker 1668": {
+        "LibriSpeech": ["1668"]
+    },
+
+    "Speaker 196": {
+        "LibriSpeech": ["196"]
+    },
+
+    "Speaker 7933": {
+        "LibriSpeech": ["7933"]
+    },
+
+    "Speaker 7553": {
+        "LibriSpeech": ["7553"]
+    },
+
+    "Speaker 5660": {
+        "LibriSpeech": ["5660"]
+    },
+
+    "Speaker 4110": {
+        "LibriSpeech": ["4110"]
+    },
+
+    "Speaker 501": {
+        "LibriSpeech": ["501"]
+    },
+
+    "Speaker 7538": {
+        "LibriSpeech": ["7538"]
+    },
+
+    "Speaker 303": {
+        "LibriSpeech": ["303"]
+    },
+
+    "Speaker 8742": {
+        "LibriSpeech": ["8742"]
+    },
+
+    "Speaker 2882": {
+        "LibriSpeech": ["2882"]
+    },
+
+    "Speaker 1851": {
+        "LibriSpeech": ["1851"]
+    },
+
+    "Speaker 7994": {
+        "LibriSpeech": ["7994"]
+    },
+
+    "Speaker 5062": {
+        "LibriSpeech": ["5062"]
+    },
+
+    "Speaker 2411": {
+        "LibriSpeech": ["2411"]
+    },
+
+    "Speaker 3537": {
+        "LibriSpeech": ["3537"]
+    },
+
+    "Speaker 1052": {
+        "LibriSpeech": ["1052"]
+    },
+
+    "Speaker 3361": {
+        "LibriSpeech": ["3361"]
+    },
+
+    "Speaker 8113": {
+        "LibriSpeech": ["8113"]
+    },
+
+    "Speaker 7967": {
+        "LibriSpeech": ["7967"]
+    },
+
+    "Speaker 1603": {
+        "LibriSpeech": ["1603"]
+    },
+
+    "Speaker 6426": {
+        "LibriSpeech": ["6426"]
+    },
+
+    "Speaker 7190": {
+        "LibriSpeech": ["7190"]
+    },
+
+    "Speaker 5401": {
+        "LibriSpeech": ["5401"]
+    },
+
+    "Speaker 2416": {
+        "LibriSpeech": ["2416"]
+    },
+
+    "Speaker 7732": {
+        "LibriSpeech": ["7732"]
+    },
+
+    "Speaker 2240": {
+        "LibriSpeech": ["2240"]
+    },
+
+    "Speaker 6877": {
+        "LibriSpeech": ["6877"]
+    },
+
+    "Speaker 332": {
+        "LibriSpeech": ["332"]
+    },
+
+    "Speaker 100": {
+        "LibriSpeech": ["100"]
+    },
+
+    "Speaker 54": {
+        "LibriSpeech": ["54"]
+    },
+
+    "Speaker 6848": {
+        "LibriSpeech": ["6848"]
+    },
+
+    "Speaker 5261": {
+        "LibriSpeech": ["5261"]
+    },
+
+    "Speaker 7704": {
+        "LibriSpeech": ["7704"]
+    },
+
+    "Speaker 6080": {
+        "LibriSpeech": ["6080"]
+    },
+
+    "Speaker 335": {
+        "LibriSpeech": ["335"]
+    },
+
+    "Speaker 98": {
+        "LibriSpeech": ["98"]
+    },
+
+    "Speaker 7956": {
+        "LibriSpeech": ["7956"]
+    },
+
+    "Speaker 1867": {
+        "LibriSpeech": ["1867"]
+    },
+
+    "Speaker 597": {
+        "LibriSpeech": ["597"]
+    },
+
+    "Speaker 3368": {
+        "LibriSpeech": ["3368"]
+    },
+
+    "Speaker 2427": {
+        "LibriSpeech": ["2427"]
+    },
+
+    "Speaker 7367": {
+        "LibriSpeech": ["7367"]
+    },
+
+    "Speaker 5868": {
+        "LibriSpeech": ["5868"]
+    },
+
+    "Speaker 5054": {
+        "LibriSpeech": ["5054"]
+    },
+
+    "Speaker 5266": {
+        "LibriSpeech": ["5266"]
+    },
+
+    "Speaker 3357": {
+        "LibriSpeech": ["3357"]
+    },
+
+    "Speaker 2285": {
+        "LibriSpeech": ["2285"]
+    },
+
+    "Speaker 4340": {
+        "LibriSpeech": ["4340"]
+    },
+
+    "Speaker 3733": {
+        "LibriSpeech": ["3733"]
+    },
+
+    "Speaker 30": {
+        "LibriSpeech": ["30"]
+    },
+
+    "Speaker 1235": {
+        "LibriSpeech": ["1235"]
+    },
+
+    "Speaker 1463": {
+        "LibriSpeech": ["1463"]
+    },
+
+    "Speaker 4111": {
+        "LibriSpeech": ["4111"]
+    },
+
+    "Speaker 7794": {
+        "LibriSpeech": ["7794"]
+    },
+
+    "Speaker 369": {
+        "LibriSpeech": ["369"]
+    },
+
+    "Speaker 3905": {
+        "LibriSpeech": ["3905"]
+    },
+
+    "Speaker 500": {
+        "LibriSpeech": ["500"]
+    },
+
+    "Speaker 2823": {
+        "LibriSpeech": ["2823"]
+    },
+
+    "Speaker 4586": {
+        "LibriSpeech": ["4586"]
+    },
+
+    "Speaker 7555": {
+        "LibriSpeech": ["7555"]
+    },
+
+    "Speaker 4116": {
+        "LibriSpeech": ["4116"]
+    },
+
+    "Speaker 163": {
+        "LibriSpeech": ["163"]
+    },
+
+    "Speaker 7932": {
+        "LibriSpeech": ["7932"]
+    },
+
+    "Speaker 6683": {
+        "LibriSpeech": ["6683"]
+    },
+
+    "Speaker 7335": {
+        "LibriSpeech": ["7335"]
+    },
+
+    "Speaker 2481": {
+        "LibriSpeech": ["2481"]
+    },
+
+    "Speaker 5039": {
+        "LibriSpeech": ["5039"]
+    },
+
+    "Speaker 2812": {
+        "LibriSpeech": ["2812"]
+    },
+
+    "Speaker 1455": {
+        "LibriSpeech": ["1455"]
+    },
+
+    "Speaker 1031": {
+        "LibriSpeech": ["1031"]
+    },
+
+    "Speaker 3792": {
+        "LibriSpeech": ["3792"]
+    },
+
+    "Speaker 6019": {
+        "LibriSpeech": ["6019"]
+    },
+
+    "Speaker 39": {
+        "LibriSpeech": ["39"]
+    },
+
+    "Speaker 8183": {
+        "LibriSpeech": ["8183"]
+    },
+
+    "Speaker 2815": {
+        "LibriSpeech": ["2815"]
+    },
+
+    "Speaker 5802": {
+        "LibriSpeech": ["5802"]
+    },
+
+    "Speaker 596": {
+        "LibriSpeech": ["596"]
+    },
+
+    "Speaker 3967": {
+        "LibriSpeech": ["3967"]
+    },
+
+    "Speaker 8123": {
+        "LibriSpeech": ["8123"]
+    },
+
+    "Speaker 7957": {
+        "LibriSpeech": ["7957"]
+    },
+
+    "Speaker 5293": {
+        "LibriSpeech": ["5293"]
+    },
+
+    "Speaker 1401": {
+        "LibriSpeech": ["1401"]
+    },
+
+    "Speaker 1859": {
+        "LibriSpeech": ["1859"]
+    },
+
+    "Speaker 101": {
+        "LibriSpeech": ["101"]
+    },
+
+    "Speaker 3994": {
+        "LibriSpeech": ["3994"]
+    },
+
+    "Speaker 8772": {
+        "LibriSpeech": ["8772"]
+    },
+
+    "Speaker 8786": {
+        "LibriSpeech": ["8786"]
+    },
+
+    "Speaker 7705": {
+        "LibriSpeech": ["7705"]
+    },
+
+    "Speaker 2045": {
+        "LibriSpeech": ["2045"]
+    },
+
+    "Speaker 6081": {
+        "LibriSpeech": ["6081"]
+    },
+
+    "Speaker 5604": {
+        "LibriSpeech": ["5604"]
+    },
+
+    "Speaker 8329": {
+        "LibriSpeech": ["8329"]
+    },
+
+    "Speaker 55": {
+        "LibriSpeech": ["55"]
+    },
+
+    "Speaker 6075": {
+        "LibriSpeech": ["6075"]
+    },
+
+    "Speaker 7395": {
+        "LibriSpeech": ["7395"]
+    },
+
+    "Speaker 1634": {
+        "LibriSpeech": ["1634"]
+    },
+
+    "Speaker 5867": {
+        "LibriSpeech": ["5867"]
+    },
+
+    "Speaker 4519": {
+        "LibriSpeech": ["4519"]
+    },
+
+    "Speaker 1259": {
+        "LibriSpeech": ["1259"]
+    },
+
+    "Speaker 7959": {
+        "LibriSpeech": ["7959"]
+    },
+
+    "Speaker 5400": {
+        "LibriSpeech": ["5400"]
+    },
+
+    "Speaker 7733": {
+        "LibriSpeech": ["7733"]
+    },
+
+    "Speaker 598": {
+        "LibriSpeech": ["598"]
+    },
+
+    "Speaker 3703": {
+        "LibriSpeech": ["3703"]
+    },
+
+    "Speaker 1054": {
+        "LibriSpeech": ["1054"]
+    },
+
+    "Speaker 7995": {
+        "LibriSpeech": ["7995"]
+    },
+
+    "Speaker 1098": {
+        "LibriSpeech": ["1098"]
+    },
+
+    "Speaker 302": {
+        "LibriSpeech": ["302"]
+    },
+
+    "Speaker 1053": {
+        "LibriSpeech": ["1053"]
+    },
+
+    "Speaker 64": {
+        "LibriSpeech": ["64"]
+    },
+
+    "Speaker 4145": {
+        "LibriSpeech": ["4145"]
+    },
+
+    "Speaker 2074": {
+        "LibriSpeech": ["2074"]
+    },
+
+    "Speaker 5635": {
+        "LibriSpeech": ["5635"]
+    },
+
+    "Speaker 90": {
+        "LibriSpeech": ["90"]
+    },
+
+    "Speaker 2562": {
+        "LibriSpeech": ["2562"]
+    },
+
+    "Speaker 2334": {
+        "LibriSpeech": ["2334"]
+    },
+
+    "Speaker 1777": {
+        "LibriSpeech": ["1777"]
+    },
+
+    "Speaker 1121": {
+        "LibriSpeech": ["1121"]
+    },
+
+    "Speaker 1313": {
+        "LibriSpeech": ["1313"]
+    },
+
+    "Speaker 426": {
+        "LibriSpeech": ["426"]
+    },
+
+    "Speaker 5778": {
+        "LibriSpeech": ["5778"]
+    },
+
+    "Speaker 1748": {
+        "LibriSpeech": ["1748"]
+    },
+
+    "Speaker 3215": {
+        "LibriSpeech": ["3215"]
+    },
+
+    "Speaker 6555": {
+        "LibriSpeech": ["6555"]
+    },
+
+    "Speaker 248": {
+        "LibriSpeech": ["248"]
+    },
+
+    "Speaker 8609": {
+        "LibriSpeech": ["8609"]
+    },
+
+    "Speaker 5740": {
+        "LibriSpeech": ["5740"]
+    },
+
+    "Speaker 8404": {
+        "LibriSpeech": ["8404"]
+    },
+
+    "Speaker 6563": {
+        "LibriSpeech": ["6563"]
+    },
+
+    "Speaker 1322": {
+        "LibriSpeech": ["1322"]
+    },
+
+    "Speaker 8855": {
+        "LibriSpeech": ["8855"]
+    },
+
+    "Speaker 5776": {
+        "LibriSpeech": ["5776"]
+    },
+
+    "Speaker 1580": {
+        "LibriSpeech": ["1580"]
+    },
+
+    "Speaker 7445": {
+        "LibriSpeech": ["7445"]
+    },
+
+    "Speaker 2137": {
+        "LibriSpeech": ["2137"]
+    },
+
+    "Speaker 1913": {
+        "LibriSpeech": ["1913"]
+    },
+
+    "Speaker 6904": {
+        "LibriSpeech": ["6904"]
+    },
+
+    "Speaker 2598": {
+        "LibriSpeech": ["2598"]
+    },
+
+    "Speaker 1779": {
+        "LibriSpeech": ["1779"]
+    },
+
+    "Speaker 4039": {
+        "LibriSpeech": ["4039"]
+    },
+
+    "Speaker 625": {
+        "LibriSpeech": ["625"]
+    },
+
+    "Speaker 3486": {
+        "LibriSpeech": ["3486"]
+    },
+
+    "Speaker 3224": {
+        "LibriSpeech": ["3224"]
+    },
+
+    "Speaker 8051": {
+        "LibriSpeech": ["8051"]
+    },
+
+    "Speaker 246": {
+        "LibriSpeech": ["246"]
+    },
+
+    "Speaker 1914": {
+        "LibriSpeech": ["1914"]
+    },
+
+    "Speaker 5588": {
+        "LibriSpeech": ["5588"]
+    },
+
+    "Speaker 5984": {
+        "LibriSpeech": ["5984"]
+    },
+
+    "Speaker 4856": {
+        "LibriSpeech": ["4856"]
+    },
+
+    "Speaker 6359": {
+        "LibriSpeech": ["6359"]
+    },
+
+    "Speaker 7416": {
+        "LibriSpeech": ["7416"]
+    },
+
+    "Speaker 7240": {
+        "LibriSpeech": ["7240"]
+    },
+
+    "Speaker 4267": {
+        "LibriSpeech": ["4267"]
+    },
+
+    "Speaker 1349": {
+        "LibriSpeech": ["1349"]
+    },
+
+    "Speaker 2960": {
+        "LibriSpeech": ["2960"]
+    },
+
+    "Speaker 671": {
+        "LibriSpeech": ["671"]
+    },
+
+    "Speaker 7278": {
+        "LibriSpeech": ["7278"]
+    },
+
+    "Speaker 4260": {
+        "LibriSpeech": ["4260"]
+    },
+
+    "Speaker 3879": {
+        "LibriSpeech": ["3879"]
+    },
+
+    "Speaker 6395": {
+        "LibriSpeech": ["6395"]
+    },
+
+    "Speaker 7247": {
+        "LibriSpeech": ["7247"]
+    },
+
+    "Speaker 1382": {
+        "LibriSpeech": ["1382"]
+    },
+
+    "Speaker 8459": {
+        "LibriSpeech": ["8459"]
+    },
+
+    "Speaker 5189": {
+        "LibriSpeech": ["5189"]
+    },
+
+    "Speaker 481": {
+        "LibriSpeech": ["481"]
+    },
+
+    "Speaker 475": {
+        "LibriSpeech": ["475"]
+    },
+
+    "Speaker 5519": {
+        "LibriSpeech": ["5519"]
+    },
+
+    "Speaker 7285": {
+        "LibriSpeech": ["7285"]
+    },
+
+    "Speaker 1724": {
+        "LibriSpeech": ["1724"]
+    },
+
+    "Speaker 4064": {
+        "LibriSpeech": ["4064"]
+    },
+
+    "Speaker 2393": {
+        "LibriSpeech": ["2393"]
+    },
+
+    "Speaker 5142": {
+        "LibriSpeech": ["5142"]
+    },
+
+    "Speaker 2531": {
+        "LibriSpeech": ["2531"]
+    },
+
+    "Speaker 224": {
+        "LibriSpeech": ["224"]
+    },
+
+    "Speaker 472": {
+        "LibriSpeech": ["472"]
+    },
+
+    "Speaker 4438": {
+        "LibriSpeech": ["4438"]
+    },
+
+    "Speaker 4860": {
+        "LibriSpeech": ["4860"]
+    },
+
+    "Speaker 7276": {
+        "LibriSpeech": ["7276"]
+    },
+
+    "Speaker 8468": {
+        "LibriSpeech": ["8468"]
+    },
+
+    "Speaker 815": {
+        "LibriSpeech": ["815"]
+    },
+
+    "Speaker 1723": {
+        "LibriSpeech": ["1723"]
+    },
+
+    "Speaker 1175": {
+        "LibriSpeech": ["1175"]
+    },
+
+    "Speaker 1116": {
+        "LibriSpeech": ["1116"]
+    },
+
+    "Speaker 882": {
+        "LibriSpeech": ["882"]
+    },
+
+    "Speaker 1740": {
+        "LibriSpeech": ["1740"]
+    },
+
+    "Speaker 5126": {
+        "LibriSpeech": ["5126"]
+    },
+
+    "Speaker 278": {
+        "LibriSpeech": ["278"]
+    },
+
+    "Speaker 4490": {
+        "LibriSpeech": ["4490"]
+    },
+
+    "Speaker 2758": {
+        "LibriSpeech": ["2758"]
+    },
+
+    "Speaker 8050": {
+        "LibriSpeech": ["8050"]
+    },
+
+    "Speaker 2136": {
+        "LibriSpeech": ["2136"]
+    },
+
+    "Speaker 1323": {
+        "LibriSpeech": ["1323"]
+    },
+
+    "Speaker 240": {
+        "LibriSpeech": ["240"]
+    },
+
+    "Speaker 8057": {
+        "LibriSpeech": ["8057"]
+    },
+
+    "Speaker 6139": {
+        "LibriSpeech": ["6139"]
+    },
+
+    "Speaker 249": {
+        "LibriSpeech": ["249"]
+    },
+
+    "Speaker 3214": {
+        "LibriSpeech": ["3214"]
+    },
+
+    "Speaker 612": {
+        "LibriSpeech": ["612"]
+    },
+
+    "Speaker 2769": {
+        "LibriSpeech": ["2769"]
+    },
+
+    "Speaker 5914": {
+        "LibriSpeech": ["5914"]
+    },
+
+    "Speaker 3825": {
+        "LibriSpeech": ["3825"]
+    },
+
+    "Speaker 8095": {
+        "LibriSpeech": ["8095"]
+    },
+
+    "Speaker 1776": {
+        "LibriSpeech": ["1776"]
+    },
+
+    "Speaker 6553": {
+        "LibriSpeech": ["6553"]
+    },
+
+    "Speaker 7481": {
+        "LibriSpeech": ["7481"]
+    },
+
+    "Speaker 5746": {
+        "LibriSpeech": ["5746"]
+    },
+
+    "Speaker 7011": {
+        "LibriSpeech": ["7011"]
+    },
+
+    "Speaker 2751": {
+        "LibriSpeech": ["2751"]
+    },
+
+    "Speaker 7647": {
+        "LibriSpeech": ["7647"]
+    },
+
+    "Speaker 5322": {
+        "LibriSpeech": ["5322"]
+    },
+
+    "Speaker 1923": {
+        "LibriSpeech": ["1923"]
+    },
+
+    "Speaker 8630": {
+        "LibriSpeech": ["8630"]
+    },
+
+    "Speaker 8066": {
+        "LibriSpeech": ["8066"]
+    },
+
+    "Speaker 1379": {
+        "LibriSpeech": ["1379"]
+    },
+
+    "Speaker 487": {
+        "LibriSpeech": ["487"]
+    },
+
+    "Speaker 6538": {
+        "LibriSpeech": ["6538"]
+    },
+
+    "Speaker 3876": {
+        "LibriSpeech": ["3876"]
+    },
+
+    "Speaker 225": {
+        "LibriSpeech": ["225"]
+    },
+
+    "Speaker 4406": {
+        "LibriSpeech": ["4406"]
+    },
+
+    "Speaker 5712": {
+        "LibriSpeech": ["5712"]
+    },
+
+    "Speaker 6993": {
+        "LibriSpeech": ["6993"]
+    },
+
+    "Speaker 5940": {
+        "LibriSpeech": ["5940"]
+    },
+
+    "Speaker 1970": {
+        "LibriSpeech": ["1970"]
+    },
+
+    "Speaker 480": {
+        "LibriSpeech": ["480"]
+    },
+
+    "Speaker 8238": {
+        "LibriSpeech": ["8238"]
+    },
+
+    "Speaker 4859": {
+        "LibriSpeech": ["4859"]
+    },
+
+    "Speaker 3240": {
+        "LibriSpeech": ["3240"]
+    },
+
+    "Speaker 3072": {
+        "LibriSpeech": ["3072"]
+    },
+
+    "Speaker 4257": {
+        "LibriSpeech": ["4257"]
+    },
+
+    "Speaker 4098": {
+        "LibriSpeech": ["4098"]
+    },
+
+    "Speaker 1348": {
+        "LibriSpeech": ["1348"]
+    },
+
+    "Speaker 6509": {
+        "LibriSpeech": ["6509"]
+    },
+
+    "Speaker 1383": {
+        "LibriSpeech": ["1383"]
+    },
+
+    "Speaker 5723": {
+        "LibriSpeech": ["5723"]
+    },
+
+    "Speaker 2162": {
+        "LibriSpeech": ["2162"]
+    },
+
+    "Speaker 2196": {
+        "LibriSpeech": ["2196"]
+    },
+
+    "Speaker 5985": {
+        "LibriSpeech": ["5985"]
+    },
+
+    "Speaker 2992": {
+        "LibriSpeech": ["2992"]
+    },
+
+    "Speaker 8494": {
+        "LibriSpeech": ["8494"]
+    },
+
+    "Speaker 6956": {
+        "LibriSpeech": ["6956"]
+    },
+
+    "Speaker 8838": {
+        "LibriSpeech": ["8838"]
+    },
+
+    "Speaker 2368": {
+        "LibriSpeech": ["2368"]
+    },
+
+    "Speaker 6367": {
+        "LibriSpeech": ["6367"]
+    },
+
+    "Speaker 3615": {
+        "LibriSpeech": ["3615"]
+    },
+
+    "Speaker 6531": {
+        "LibriSpeech": ["6531"]
+    },
+
+    "Speaker 8699": {
+        "LibriSpeech": ["8699"]
+    },
+
+    "Speaker 5186": {
+        "LibriSpeech": ["5186"]
+    },
+
+    "Speaker 7241": {
+        "LibriSpeech": ["7241"]
+    },
+
+    "Speaker 5724": {
+        "LibriSpeech": ["5724"]
+    },
+
+    "Speaker 7297": {
+        "LibriSpeech": ["7297"]
+    },
+
+    "Speaker 1160": {
+        "LibriSpeech": ["1160"]
+    },
+
+    "Speaker 8825": {
+        "LibriSpeech": ["8825"]
+    },
+
+    "Speaker 458": {
+        "LibriSpeech": ["458"]
+    },
+
+    "Speaker 1963": {
+        "LibriSpeech": ["1963"]
+    },
+
+    "Speaker 8684": {
+        "LibriSpeech": ["8684"]
+    },
+
+    "Speaker 231": {
+        "LibriSpeech": ["231"]
+    },
+
+    "Speaker 3092": {
+        "LibriSpeech": ["3092"]
+    },
+
+    "Speaker 209": {
+        "LibriSpeech": ["209"]
+    },
+
+    "Speaker 5157": {
+        "LibriSpeech": ["5157"]
+    },
+
+    "Speaker 7264": {
+        "LibriSpeech": ["7264"]
+    },
+
+    "Speaker 699": {
+        "LibriSpeech": ["699"]
+    },
+
+    "Speaker 1355": {
+        "LibriSpeech": ["1355"]
+    },
+
+    "Speaker 1731": {
+        "LibriSpeech": ["1731"]
+    },
+
+    "Speaker 4243": {
+        "LibriSpeech": ["4243"]
+    },
+
+    "Speaker 4071": {
+        "LibriSpeech": ["4071"]
+    },
+
+    "Speaker 7069": {
+        "LibriSpeech": ["7069"]
+    },
+
+    "Speaker 460": {
+        "LibriSpeech": ["460"]
+    },
+
+    "Speaker 8677": {
+        "LibriSpeech": ["8677"]
+    },
+
+    "Speaker 2512": {
+        "LibriSpeech": ["2512"]
+    },
+
+    "Speaker 8028": {
+        "LibriSpeech": ["8028"]
+    },
+
+    "Speaker 831": {
+        "LibriSpeech": ["831"]
+    },
+
+    "Speaker 2182": {
+        "LibriSpeech": ["2182"]
+    },
+
+    "Speaker 1535": {
+        "LibriSpeech": ["1535"]
+    },
+
+    "Speaker 1363": {
+        "LibriSpeech": ["1363"]
+    },
+
+    "Speaker 200": {
+        "LibriSpeech": ["200"]
+    },
+
+    "Speaker 2149": {
+        "LibriSpeech": ["2149"]
+    },
+
+    "Speaker 664": {
+        "LibriSpeech": ["664"]
+    },
+
+    "Speaker 8225": {
+        "LibriSpeech": ["8225"]
+    },
+
+    "Speaker 6373": {
+        "LibriSpeech": ["6373"]
+    },
+
+    "Speaker 5192": {
+        "LibriSpeech": ["5192"]
+    },
+
+    "Speaker 836": {
+        "LibriSpeech": ["836"]
+    },
+
+    "Speaker 7067": {
+        "LibriSpeech": ["7067"]
+    },
+
+    "Speaker 1390": {
+        "LibriSpeech": ["1390"]
+    },
+
+    "Speaker 2388": {
+        "LibriSpeech": ["2388"]
+    },
+
+    "Speaker 4629": {
+        "LibriSpeech": ["4629"]
+    },
+
+    "Speaker 663": {
+        "LibriSpeech": ["663"]
+    },
+
+    "Speaker 8222": {
+        "LibriSpeech": ["8222"]
+    },
+
+    "Speaker 451": {
+        "LibriSpeech": ["451"]
+    },
+
+    "Speaker 8474": {
+        "LibriSpeech": ["8474"]
+    },
+
+    "Speaker 207": {
+        "LibriSpeech": ["207"]
+    },
+
+    "Speaker 405": {
+        "LibriSpeech": ["405"]
+    },
+
+    "Speaker 637": {
+        "LibriSpeech": ["637"]
+    },
+
+    "Speaker 6788": {
+        "LibriSpeech": ["6788"]
+    },
+
+    "Speaker 2787": {
+        "LibriSpeech": ["2787"]
+    },
+
+    "Speaker 6115": {
+        "LibriSpeech": ["6115"]
+    },
+
+    "Speaker 4226": {
+        "LibriSpeech": ["4226"]
+    },
+
+    "Speaker 1754": {
+        "LibriSpeech": ["1754"]
+    },
+
+    "Speaker 3003": {
+        "LibriSpeech": ["3003"]
+    },
+
+    "Speaker 298": {
+        "LibriSpeech": ["298"]
+    },
+
+    "Speaker 4014": {
+        "LibriSpeech": ["4014"]
+    },
+
+    "Speaker 7665": {
+        "LibriSpeech": ["7665"]
+    },
+
+    "Speaker 3493": {
+        "LibriSpeech": ["3493"]
+    },
+
+    "Speaker 254": {
+        "LibriSpeech": ["254"]
+    },
+
+    "Speaker 3699": {
+        "LibriSpeech": ["3699"]
+    },
+
+    "Speaker 7837": {
+        "LibriSpeech": ["7837"]
+    },
+
+    "Speaker 3807": {
+        "LibriSpeech": ["3807"]
+    },
+
+    "Speaker 2774": {
+        "LibriSpeech": ["2774"]
+    },
+
+    "Speaker 5909": {
+        "LibriSpeech": ["5909"]
+    },
+
+    "Speaker 4013": {
+        "LibriSpeech": ["4013"]
+    },
+
+    "Speaker 1337": {
+        "LibriSpeech": ["1337"]
+    },
+
+    "Speaker 8088": {
+        "LibriSpeech": ["8088"]
+    },
+
+    "Speaker 606": {
+        "LibriSpeech": ["606"]
+    },
+
+    "Speaker 8075": {
+        "LibriSpeech": ["8075"]
+    },
+
+    "Speaker 434": {
+        "LibriSpeech": ["434"]
+    },
+
+    "Speaker 2319": {
+        "LibriSpeech": ["2319"]
+    },
+
+    "Speaker 296": {
+        "LibriSpeech": ["296"]
+    },
+
+    "Speaker 6927": {
+        "LibriSpeech": ["6927"]
+    },
+
+    "Speaker 2570": {
+        "LibriSpeech": ["2570"]
+    },
+
+    "Speaker 639": {
+        "LibriSpeech": ["639"]
+    },
+
+    "Speaker 6918": {
+        "LibriSpeech": ["6918"]
+    },
+
+    "Speaker 4441": {
+        "LibriSpeech": ["4441"]
+    },
+
+    "Speaker 3664": {
+        "LibriSpeech": ["3664"]
+    },
+
+    "Speaker 3032": {
+        "LibriSpeech": ["3032"]
+    },
+
+    "Speaker 2910": {
+        "LibriSpeech": ["2910"]
+    },
+
+    "Speaker 7495": {
+        "LibriSpeech": ["7495"]
+    },
+
+    "Speaker 4446": {
+        "LibriSpeech": ["4446"]
+    },
+
+    "Speaker 2577": {
+        "LibriSpeech": ["2577"]
+    },
+
+    "Speaker 4680": {
+        "LibriSpeech": ["4680"]
+    },
+
+    "Speaker 2113": {
+        "LibriSpeech": ["2113"]
+    },
+
+    "Speaker 5104": {
+        "LibriSpeech": ["5104"]
+    },
+
+    "Speaker 7402": {
+        "LibriSpeech": ["7402"]
+    },
+
+    "Speaker 2514": {
+        "LibriSpeech": ["2514"]
+    },
+
+    "Speaker 5731": {
+        "LibriSpeech": ["5731"]
+    },
+
+    "Speaker 4425": {
+        "LibriSpeech": ["4425"]
+    },
+
+    "Speaker 1365": {
+        "LibriSpeech": ["1365"]
+    },
+
+    "Speaker 8011": {
+        "LibriSpeech": ["8011"]
+    },
+
+    "Speaker 7059": {
+        "LibriSpeech": ["7059"]
+    },
+
+    "Speaker 696": {
+        "LibriSpeech": ["696"]
+    },
+
+    "Speaker 6147": {
+        "LibriSpeech": ["6147"]
+    },
+
+    "Speaker 7095": {
+        "LibriSpeech": ["7095"]
+    },
+
+    "Speaker 3607": {
+        "LibriSpeech": ["3607"]
+    },
+
+    "Speaker 7061": {
+        "LibriSpeech": ["7061"]
+    },
+
+    "Speaker 830": {
+        "LibriSpeech": ["830"]
+    },
+
+    "Speaker 3638": {
+        "LibriSpeech": ["3638"]
+    },
+
+    "Speaker 3852": {
+        "LibriSpeech": ["3852"]
+    },
+
+    "Speaker 201": {
+        "LibriSpeech": ["201"]
+    },
+
+    "Speaker 698": {
+        "LibriSpeech": ["698"]
+    },
+
+    "Speaker 1502": {
+        "LibriSpeech": ["1502"]
+    },
+
+    "Speaker 5390": {
+        "LibriSpeech": ["5390"]
+    },
+
+    "Speaker 2989": {
+        "LibriSpeech": ["2989"]
+    },
+
+    "Speaker 208": {
+        "LibriSpeech": ["208"]
+    },
+
+    "Speaker 806": {
+        "LibriSpeech": ["806"]
+    },
+
+    "Speaker 3864": {
+        "LibriSpeech": ["3864"]
+    },
+
+    "Speaker 6388": {
+        "LibriSpeech": ["6388"]
+    },
+
+    "Speaker 839": {
+        "LibriSpeech": ["839"]
+    },
+
+    "Speaker 4289": {
+        "LibriSpeech": ["4289"]
+    },
+
+    "Speaker 237": {
+        "LibriSpeech": ["237"]
+    },
+
+    "Speaker 1195": {
+        "LibriSpeech": ["1195"]
+    },
+
+    "Speaker 459": {
+        "LibriSpeech": ["459"]
+    },
+
+    "Speaker 8824": {
+        "LibriSpeech": ["8824"]
+    },
+
+    "Speaker 3094": {
+        "LibriSpeech": ["3094"]
+    },
+
+    "Speaker 7434": {
+        "LibriSpeech": ["7434"]
+    },
+
+    "Speaker 1737": {
+        "LibriSpeech": ["1737"]
+    },
+
+    "Speaker 6981": {
+        "LibriSpeech": ["6981"]
+    },
+
+    "Speaker 492": {
+        "LibriSpeech": ["492"]
+    },
+
+    "Speaker 2911": {
+        "LibriSpeech": ["2911"]
+    },
+
+    "Speaker 4681": {
+        "LibriSpeech": ["4681"]
+    },
+
+    "Speaker 5561": {
+        "LibriSpeech": ["5561"]
+    },
+
+    "Speaker 7460": {
+        "LibriSpeech": ["7460"]
+    },
+
+    "Speaker 5337": {
+        "LibriSpeech": ["5337"]
+    },
+
+    "Speaker 2582": {
+        "LibriSpeech": ["2582"]
+    },
+
+    "Speaker 899": {
+        "LibriSpeech": ["899"]
+    },
+
+    "Speaker 3830": {
+        "LibriSpeech": ["3830"]
+    },
+
+    "Speaker 8080": {
+        "LibriSpeech": ["8080"]
+    },
+
+    "Speaker 8848": {
+        "LibriSpeech": ["8848"]
+    },
+
+    "Speaker 7800": {
+        "LibriSpeech": ["7800"]
+    },
+
+    "Speaker 8410": {
+        "LibriSpeech": ["8410"]
+    },
+
+    "Speaker 6317": {
+        "LibriSpeech": ["6317"]
+    },
+
+    "Speaker 1556": {
+        "LibriSpeech": ["1556"]
+    },
+
+    "Speaker 2929": {
+        "LibriSpeech": ["2929"]
+    },
+
+    "Speaker 2920": {
+        "LibriSpeech": ["2920"]
+    },
+
+    "Speaker 5339": {
+        "LibriSpeech": ["5339"]
+    },
+
+    "Speaker 403": {
+        "LibriSpeech": ["403"]
+    },
+
+    "Speaker 1752": {
+        "LibriSpeech": ["1752"]
+    },
+
+    "Speaker 1336": {
+        "LibriSpeech": ["1336"]
+    },
+
+    "Speaker 2775": {
+        "LibriSpeech": ["2775"]
+    },
+
+    "Speaker 7809": {
+        "LibriSpeech": ["7809"]
+    },
+
+    "Speaker 8419": {
+        "LibriSpeech": ["8419"]
+    },
+
+    "Speaker 1594": {
+        "LibriSpeech": ["1594"]
+    },
+
+    "Speaker 636": {
+        "LibriSpeech": ["636"]
+    },
+
+    "Speaker 8879": {
+        "LibriSpeech": ["8879"]
+    },
+
+    "Speaker 8421": {
+        "LibriSpeech": ["8421"]
+    },
+
+    "Speaker 5133": {
+        "LibriSpeech": ["5133"]
+    },
+
+    "Speaker 3654": {
+        "LibriSpeech": ["3654"]
+    },
+
+    "Speaker 3230": {
+        "LibriSpeech": ["3230"]
+    },
+
+    "Speaker 4731": {
+        "LibriSpeech": ["4731"]
+    },
+
+    "Speaker 549": {
+        "LibriSpeech": ["549"]
+    },
+
+    "Speaker 8108": {
+        "LibriSpeech": ["8108"]
+    },
+
+    "Speaker 7140": {
+        "LibriSpeech": ["7140"]
+    },
+
+    "Speaker 2056": {
+        "LibriSpeech": ["2056"]
+    },
+
+    "Speaker 911": {
+        "LibriSpeech": ["911"]
+    },
+
+    "Speaker 6865": {
+        "LibriSpeech": ["6865"]
+    },
+
+    "Speaker 79": {
+        "LibriSpeech": ["79"]
+    },
+
+    "Speaker 112": {
+        "LibriSpeech": ["112"]
+    },
+
+    "Speaker 3389": {
+        "LibriSpeech": ["3389"]
+    },
+
+    "Speaker 576": {
+        "LibriSpeech": ["576"]
+    },
+
+    "Speaker 318": {
+        "LibriSpeech": ["318"]
+    },
+
+    "Speaker 3513": {
+        "LibriSpeech": ["3513"]
+    },
+
+    "Speaker 6637": {
+        "LibriSpeech": ["6637"]
+    },
+
+    "Speaker 4160": {
+        "LibriSpeech": ["4160"]
+    },
+
+    "Speaker 7178": {
+        "LibriSpeech": ["7178"]
+    },
+
+    "Speaker 2638": {
+        "LibriSpeech": ["2638"]
+    },
+
+    "Speaker 115": {
+        "LibriSpeech": ["115"]
+    },
+
+    "Speaker 83": {
+        "LibriSpeech": ["83"]
+    },
+
+    "Speaker 920": {
+        "LibriSpeech": ["920"]
+    },
+
+    "Speaker 3989": {
+        "LibriSpeech": ["3989"]
+    },
+
+    "Speaker 7515": {
+        "LibriSpeech": ["7515"]
+    },
+
+    "Speaker 5242": {
+        "LibriSpeech": ["5242"]
+    },
+
+    "Speaker 2093": {
+        "LibriSpeech": ["2093"]
+    },
+
+    "Speaker 1040": {
+        "LibriSpeech": ["1040"]
+    },
+
+    "Speaker 3717": {
+        "LibriSpeech": ["3717"]
+    },
+
+    "Speaker 311": {
+        "LibriSpeech": ["311"]
+    },
+
+    "Speaker 3728": {
+        "LibriSpeech": ["3728"]
+    },
+
+    "Speaker 781": {
+        "LibriSpeech": ["781"]
+    },
+
+    "Speaker 1629": {
+        "LibriSpeech": ["1629"]
+    },
+
+    "Speaker 70": {
+        "LibriSpeech": ["70"]
+    },
+
+    "Speaker 4535": {
+        "LibriSpeech": ["4535"]
+    },
+
+    "Speaker 3374": {
+        "LibriSpeech": ["3374"]
+    },
+
+    "Speaker 4363": {
+        "LibriSpeech": ["4363"]
+    },
+
+    "Speaker 329": {
+        "LibriSpeech": ["329"]
+    },
+
+    "Speaker 3380": {
+        "LibriSpeech": ["3380"]
+    },
+
+    "Speaker 7720": {
+        "LibriSpeech": ["7720"]
+    },
+
+    "Speaker 2060": {
+        "LibriSpeech": ["2060"]
+    },
+
+    "Speaker 4397": {
+        "LibriSpeech": ["4397"]
+    },
+
+    "Speaker 2404": {
+        "LibriSpeech": ["2404"]
+    },
+
+    "Speaker 8591": {
+        "LibriSpeech": ["8591"]
+    },
+
+    "Speaker 3945": {
+        "LibriSpeech": ["3945"]
+    },
+
+    "Speaker 2299": {
+        "LibriSpeech": ["2299"]
+    },
+
+    "Speaker 7981": {
+        "LibriSpeech": ["7981"]
+    },
+
+    "Speaker 1448": {
+        "LibriSpeech": ["1448"]
+    },
+
+    "Speaker 3549": {
+        "LibriSpeech": ["3549"]
+    },
+
+    "Speaker 6209": {
+        "LibriSpeech": ["6209"]
+    },
+
+    "Speaker 2696": {
+        "LibriSpeech": ["2696"]
+    },
+
+    "Speaker 3112": {
+        "LibriSpeech": ["3112"]
+    },
+
+    "Speaker 7780": {
+        "LibriSpeech": ["7780"]
+    },
+
+    "Speaker 6494": {
+        "LibriSpeech": ["6494"]
+    },
+
+    "Speaker 4595": {
+        "LibriSpeech": ["4595"]
+    },
+
+    "Speaker 2830": {
+        "LibriSpeech": ["2830"]
+    },
+
+    "Speaker 345": {
+        "LibriSpeech": ["345"]
+    },
+
+    "Speaker 7926": {
+        "LibriSpeech": ["7926"]
+    },
+
+    "Speaker 8152": {
+        "LibriSpeech": ["8152"]
+    },
+
+    "Speaker 6458": {
+        "LibriSpeech": ["6458"]
+    },
+
+    "Speaker 5672": {
+        "LibriSpeech": ["5672"]
+    },
+
+    "Speaker 4592": {
+        "LibriSpeech": ["4592"]
+    },
+
+    "Speaker 2201": {
+        "LibriSpeech": ["2201"]
+    },
+
+    "Speaker 1226": {
+        "LibriSpeech": ["1226"]
+    },
+
+    "Speaker 23": {
+        "LibriSpeech": ["23"]
+    },
+
+    "Speaker 2691": {
+        "LibriSpeech": ["2691"]
+    },
+
+    "Speaker 525": {
+        "LibriSpeech": ["525"]
+    },
+
+    "Speaker 7910": {
+        "LibriSpeech": ["7910"]
+    },
+
+    "Speaker 373": {
+        "LibriSpeech": ["373"]
+    },
+
+    "Speaker 6836": {
+        "LibriSpeech": ["6836"]
+    },
+
+    "Speaker 8190": {
+        "LibriSpeech": ["8190"]
+    },
+
+    "Speaker 5012": {
+        "LibriSpeech": ["5012"]
+    },
+
+    "Speaker 7113": {
+        "LibriSpeech": ["7113"]
+    },
+
+    "Speaker 3781": {
+        "LibriSpeech": ["3781"]
+    },
+
+    "Speaker 1446": {
+        "LibriSpeech": ["1446"]
+    },
+
+    "Speaker 5688": {
+        "LibriSpeech": ["5688"]
+    },
+
+    "Speaker 1826": {
+        "LibriSpeech": ["1826"]
+    },
+
+    "Speaker 7789": {
+        "LibriSpeech": ["7789"]
+    },
+
+    "Speaker 380": {
+        "LibriSpeech": ["380"]
+    },
+
+    "Speaker 3927": {
+        "LibriSpeech": ["3927"]
+    },
+
+    "Speaker 374": {
+        "LibriSpeech": ["374"]
+    },
+
+    "Speaker 8163": {
+        "LibriSpeech": ["8163"]
+    },
+
+    "Speaker 4133": {
+        "LibriSpeech": ["4133"]
+    },
+
+    "Speaker 1025": {
+        "LibriSpeech": ["1025"]
+    },
+
+    "Speaker 6032": {
+        "LibriSpeech": ["6032"]
+    },
+
+    "Speaker 3540": {
+        "LibriSpeech": ["3540"]
+    },
+
+    "Speaker 2654": {
+        "LibriSpeech": ["2654"]
+    },
+
+    "Speaker 2002": {
+        "LibriSpeech": ["2002"]
+    },
+
+    "Speaker 6690": {
+        "LibriSpeech": ["6690"]
+    },
+
+    "Speaker 2230": {
+        "LibriSpeech": ["2230"]
+    },
+
+    "Speaker 2061": {
+        "LibriSpeech": ["2061"]
+    },
+
+    "Speaker 328": {
+        "LibriSpeech": ["328"]
+    },
+
+    "Speaker 1046": {
+        "LibriSpeech": ["1046"]
+    },
+
+    "Speaker 4362": {
+        "LibriSpeech": ["4362"]
+    },
+
+    "Speaker 1422": {
+        "LibriSpeech": ["1422"]
+    },
+
+    "Speaker 7148": {
+        "LibriSpeech": ["7148"]
+    },
+
+    "Speaker 5049": {
+        "LibriSpeech": ["5049"]
+    },
+
+    "Speaker 125": {
+        "LibriSpeech": ["125"]
+    },
+
+    "Speaker 9026": {
+        "LibriSpeech": ["9026"]
+    },
+
+    "Speaker 1079": {
+        "LibriSpeech": ["1079"]
+    },
+
+    "Speaker 1845": {
+        "LibriSpeech": ["1845"]
+    },
+
+    "Speaker 1425": {
+        "LibriSpeech": ["1425"]
+    },
+
+    "Speaker 2092": {
+        "LibriSpeech": ["2092"]
+    },
+
+    "Speaker 8138": {
+        "LibriSpeech": ["8138"]
+    },
+
+    "Speaker 7342": {
+        "LibriSpeech": ["7342"]
+    },
+
+    "Speaker 2254": {
+        "LibriSpeech": ["2254"]
+    },
+
+    "Speaker 122": {
+        "LibriSpeech": ["122"]
+    },
+
+    "Speaker 5618": {
+        "LibriSpeech": ["5618"]
+    },
+
+    "Speaker 6060": {
+        "LibriSpeech": ["6060"]
+    },
+
+    "Speaker 40": {
+        "LibriSpeech": ["40"]
+    },
+
+    "Speaker 1413": {
+        "LibriSpeech": ["1413"]
+    },
+
+    "Speaker 8758": {
+        "LibriSpeech": ["8758"]
+    },
+
+    "Speaker 4195": {
+        "LibriSpeech": ["4195"]
+    },
+
+    "Speaker 1874": {
+        "LibriSpeech": ["1874"]
+    },
+
+    "Speaker 7945": {
+        "LibriSpeech": ["7945"]
+    },
+
+    "Speaker 2853": {
+        "LibriSpeech": ["2853"]
+    },
+
+    "Speaker 114": {
+        "LibriSpeech": ["114"]
+    },
+
+    "Speaker 548": {
+        "LibriSpeech": ["548"]
+    },
+
+    "Speaker 7525": {
+        "LibriSpeech": ["7525"]
+    },
+
+    "Speaker 3185": {
+        "LibriSpeech": ["3185"]
+    },
+
+    "Speaker 7717": {
+        "LibriSpeech": ["7717"]
+    },
+
+    "Speaker 3171": {
+        "LibriSpeech": ["3171"]
+    },
+
+    "Speaker 1289": {
+        "LibriSpeech": ["1289"]
+    },
+
+    "Speaker 78": {
+        "LibriSpeech": ["78"]
+    },
+
+    "Speaker 583": {
+        "LibriSpeech": ["583"]
+    },
+
+    "Speaker 3972": {
+        "LibriSpeech": ["3972"]
+    },
+
+    "Speaker 8506": {
+        "LibriSpeech": ["8506"]
+    },
+
+    "Speaker 711": {
+        "LibriSpeech": ["711"]
+    },
+
+    "Speaker 7318": {
+        "LibriSpeech": ["7318"]
+    },
+
+    "Speaker 3328": {
+        "LibriSpeech": ["3328"]
+    },
+
+    "Speaker 716": {
+        "LibriSpeech": ["716"]
+    },
+
+    "Speaker 5448": {
+        "LibriSpeech": ["5448"]
+    },
+
+    "Speaker 5810": {
+        "LibriSpeech": ["5810"]
+    },
+
+    "Speaker 6206": {
+        "LibriSpeech": ["6206"]
+    },
+
+    "Speaker 14": {
+        "LibriSpeech": ["14"]
+    },
+
+    "Speaker 2494": {
+        "LibriSpeech": ["2494"]
+    },
+
+    "Speaker 3546": {
+        "LibriSpeech": ["3546"]
+    },
+
+    "Speaker 1447": {
+        "LibriSpeech": ["1447"]
+    },
+
+    "Speaker 2004": {
+        "LibriSpeech": ["2004"]
+    },
+
+    "Speaker 6696": {
+        "LibriSpeech": ["6696"]
+    },
+
+    "Speaker 2652": {
+        "LibriSpeech": ["2652"]
+    },
+
+    "Speaker 8705": {
+        "LibriSpeech": ["8705"]
+    },
+
+    "Speaker 176": {
+        "LibriSpeech": ["176"]
+    },
+
+    "Speaker 512": {
+        "LibriSpeech": ["512"]
+    },
+
+    "Speaker 4331": {
+        "LibriSpeech": ["4331"]
+    },
+
+    "Speaker 3114": {
+        "LibriSpeech": ["3114"]
+    },
+
+    "Speaker 22": {
+        "LibriSpeech": ["22"]
+    },
+
+    "Speaker 7316": {
+        "LibriSpeech": ["7316"]
+    },
+
+    "Speaker 3584": {
+        "LibriSpeech": ["3584"]
+    },
+
+    "Speaker 6492": {
+        "LibriSpeech": ["6492"]
+    },
+
+    "Speaker 7540": {
+        "LibriSpeech": ["7540"]
+    },
+
+    "Speaker 2836": {
+        "LibriSpeech": ["2836"]
+    },
+
+    "Speaker 2238": {
+        "LibriSpeech": ["2238"]
+    },
+
+    "Speaker 1811": {
+        "LibriSpeech": ["1811"]
+    },
+
+    "Speaker 5022": {
+        "LibriSpeech": ["5022"]
+    },
+
+    "Speaker 1482": {
+        "LibriSpeech": ["1482"]
+    },
+
+    "Speaker 718": {
+        "LibriSpeech": ["718"]
+    },
+
+    "Speaker 1012": {
+        "LibriSpeech": ["1012"]
+    },
+
+    "Speaker 986": {
+        "LibriSpeech": ["986"]
+    }
+}
